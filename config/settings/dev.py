@@ -2,6 +2,7 @@ from .base import *
 
 DEBUG = True
 INSTALLED_APPS += [
+    "tests"
 ]
 
 ALLOWED_HOSTS = ['*']
