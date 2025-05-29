@@ -10,8 +10,10 @@ env = environ.Env(
 environ.Env.read_env(os.path.join(BASE_DIR, '.env'))
 
 DEBUG = env('DEBUG')
+BOT_TOKEN = env('BOT_TOKEN')
 
 if DEBUG:
     from .dev import *
 else:
     from .prod import *
+

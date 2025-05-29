@@ -37,7 +37,7 @@ class UzumService:
                 self.token = cookie.get("access_token").value
 
     @handle_token_expiration
-    async def search(self, text: str, offset: int = 0, limit: int = 3) -> dict:
+    async def search(self, text: str, offset: int = 0, limit: int = 3):
         url = "https://graphql.uzum.uz/"
         headers = {
             "accept": "*/*",

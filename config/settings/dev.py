@@ -2,8 +2,10 @@ from .base import *
 
 DEBUG = True
 INSTALLED_APPS += [
+    "apps.bot",
     "tests"
 ]
+
 
 ALLOWED_HOSTS = ['*']
 DATABASES = {
