@@ -1,0 +1,6650 @@
+{
+  "metadata": {
+    "name": "336635270",
+    "catalog_type": "presets",
+    "catalog_value": "preset=19887484"
+  },
+  "state": 0,
+  "version": 2,
+  "payloadVersion": 2,
+  "data": {
+    "products": [
+      {
+        "id": 336635274,
+        "time1": 29,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 319723883,
+        "kindId": 0,
+        "brand": "RAIJINTEK",
+        "brandId": 768195,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для компьютера ARCADIA III -ST PC Case 0R20B00231",
+        "entity": "",
+        "matchId": 203675665,
+        "supplier": "Getsy",
+        "supplierId": 1320048,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 1,
+        "rating": 0,
+        "reviewRating": 0,
+        "nmReviewRating": 0,
+        "feedbacks": 0,
+        "nmFeedbacks": 0,
+        "volume": 768,
+        "viewFlags": 1433728,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 502448576,
+            "wh": 211730,
+            "time1": 29,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 47130000,
+              "product": 38170000,
+              "total": 87350000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "UkTyzcJiHA/tazIJNF8fO9V5pAELpACcQQchk5rA4CGE5EqUhc0AI6gD/p5oQP+PSOpbHJvDRwUdEyk"
+          }
+        ],
+        "totalQuantity": 176,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 380979275,
+        "time1": 28,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 372867450,
+        "kindId": 0,
+        "brand": "RAIJINTEK",
+        "brandId": 768195,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для компьютера ARCADIA III PC Case 0R20B00224",
+        "entity": "",
+        "matchId": 221683148,
+        "supplier": "omni sale",
+        "supplierId": 82591,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 1,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 1,
+        "nmFeedbacks": 1,
+        "volume": 753,
+        "viewFlags": 1417346,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 553891252,
+            "wh": 211730,
+            "time1": 28,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 49220000,
+              "product": 39820000,
+              "total": 89000000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "LYLNKQqHFpaslbXhW3ke8rZbN8MMM0rYIW5UDqWYscuQ4xVSfgTvqOWTub0mtxtioV2+61QJOb6rJPQ"
+          }
+        ],
+        "totalQuantity": 345,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 246023309,
+        "time1": 32,
+        "time2": 268,
+        "wh": 119261,
+        "dtype": 65,
+        "dist": 3564,
+        "root": 221185028,
+        "kindId": 0,
+        "brand": "ACCORD",
+        "brandId": 60337,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Компьютерный корпус ATX 3338 Midi-Tower",
+        "entity": "",
+        "matchId": 1682320,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 8,
+        "rating": 5,
+        "reviewRating": 4.5,
+        "nmReviewRating": 4.5,
+        "feedbacks": 56,
+        "nmFeedbacks": 56,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 585,
+        "viewFlags": 1384585,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 385632520,
+            "wh": 119261,
+            "time1": 32,
+            "time2": 268,
+            "dtype": 65,
+            "price": {
+              "basic": 50130000,
+              "product": 38780000,
+              "total": 77730000,
+              "logistics": 38950000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "Hki+vL4+KslV/bq6HLBXRlqRP791JY8BxHAY9t2e2NUBo4bSIyJsK3sYn9YkPcF9tFCoEy2bg9laRME"
+          }
+        ],
+        "totalQuantity": 200,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 275398188,
+        "time1": 29,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 254694358,
+        "kindId": 0,
+        "brand": "PCCooler",
+        "brandId": 81307,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус компьютерный C3 T500 BK ATX",
+        "entity": "",
+        "matchId": 210030017,
+        "supplier": "Getsy",
+        "supplierId": 1320048,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 3,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 37,
+        "nmFeedbacks": 37,
+        "volume": 929,
+        "viewFlags": 1433793,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 424575241,
+            "wh": 211730,
+            "time1": 29,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 63390000,
+              "product": 67340000,
+              "total": 116520000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "7hdwnLyej4nqzB+Nygsee3sZdK9uo1VFgU2SUHMvN/KX0dnqeh4MtOMtv+H/n4Vmx3fyeWK7e5f7xz0"
+          }
+        ],
+        "totalQuantity": 119,
+        "log": {
+          "cpm": 125,
+          "promotion": 1,
+          "promoPosition": 4,
+          "position": 19,
+          "advertId": 20203193,
+          "tp": "b"
+        },
+        "logs": "Mih4LS9WJzuCtpw84e/W4kXlCY6iQib7gxcGsX2UMJSf0MDpKRoEipl2O2YxIuNiJxWLGt8",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 223437094,
+        "time1": 32,
+        "time2": 268,
+        "wh": 119261,
+        "dtype": 65,
+        "dist": 3564,
+        "root": 201181368,
+        "kindId": 0,
+        "brand": "ACCORD",
+        "brandId": 60337,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Компьютерный корпус ATX 3312 Midi Tower",
+        "entity": "",
+        "matchId": 1200761,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 3,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 219,
+        "nmFeedbacks": 219,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 618,
+        "viewFlags": 1384584,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 354455326,
+            "wh": 119261,
+            "time1": 32,
+            "time2": 268,
+            "dtype": 65,
+            "price": {
+              "basic": 47930000,
+              "product": 37200000,
+              "total": 78350000,
+              "logistics": 41150000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "b6JYhSsji5ht0Y4Es02UIOzglqJHHwXVs1pb6Ro5H94lfl2tYn07Ob9QYKaixU4bJDx5lWHy3+pt9bg"
+          }
+        ],
+        "totalQuantity": 200,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 336635236,
+        "time1": 29,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 319723846,
+        "kindId": 0,
+        "brand": "RAIJINTEK",
+        "brandId": 768195,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для компьютера ARCADIA III -MS4 PC Case 0R20B00247",
+        "entity": "",
+        "matchId": 204125835,
+        "supplier": "Getsy",
+        "supplierId": 1320048,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 1,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 4,
+        "nmFeedbacks": 4,
+        "volume": 755,
+        "viewFlags": 1433728,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 502448441,
+            "wh": 211730,
+            "time1": 29,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 80060000,
+              "product": 66440000,
+              "total": 115620000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "roxM7FE94/u9h1SSvaFGR23+RXiXowqkJW1SHS6Y1XF2UmEFJ05GYMT4UH5N7MaX82buIf4QjtWtq7s"
+          }
+        ],
+        "totalQuantity": 90,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 317576652,
+        "time1": 3,
+        "time2": 268,
+        "wh": 507,
+        "dtype": 68,
+        "dist": 3564,
+        "root": 299067265,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой аквариум microATX",
+        "entity": "",
+        "matchId": 8593519,
+        "supplier": "Techno Mall",
+        "supplierId": 4202119,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 14,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 91,
+        "nmFeedbacks": 91,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 406,
+        "viewFlags": 1581265,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 478750695,
+            "wh": 507,
+            "time1": 3,
+            "time2": 268,
+            "dtype": 68,
+            "price": {
+              "basic": 55810000,
+              "product": 42490000,
+              "total": 69520000,
+              "logistics": 27030000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "ioSOG2BhUIO04WZzDfuOEvY75xXzki5WXt3ttK0l6TJzvSrWbIntnjpSiWMYrXWGY6CMQePCycw9T+I"
+          }
+        ],
+        "totalQuantity": 47,
+        "log": {
+          "cpm": 180,
+          "promotion": 1,
+          "promoPosition": 7,
+          "position": 24,
+          "advertId": 25106159,
+          "tp": "b"
+        },
+        "logs": "MsmIzuF1qd4ZPMZDGqJ7mU/IXftc/6neGcD08sxJ+B9BGYbvOtERTgE+hFfAnAuZp+lFQsZ1",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 242914648,
+        "time1": 27,
+        "time2": 142,
+        "wh": 218990,
+        "dtype": 65,
+        "dist": 822,
+        "root": 218268504,
+        "kindId": 0,
+        "brand": "PCCooler",
+        "brandId": 81307,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК C3B310 BK, Mini-Tower, черный",
+        "entity": "",
+        "matchId": 198743533,
+        "supplier": "OOMA",
+        "supplierId": 518803,
+        "supplierRating": 4.7,
+        "supplierFlags": 8000,
+        "pics": 9,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 27,
+        "nmFeedbacks": 27,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 563,
+        "viewFlags": 65664,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 381294057,
+            "wh": 218990,
+            "time1": 27,
+            "time2": 142,
+            "dtype": 65,
+            "price": {
+              "basic": 56530000,
+              "product": 42170000,
+              "total": 74140000,
+              "logistics": 31970000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "71Gn9Vu9S11Tr/cIJ84nRylN56z+v+KDbsifLdFUjEZuidMfIcbN9tfgRB5foE1OXGPnsxmMTbzeHMo"
+          }
+        ],
+        "totalQuantity": 999,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 316678020,
+        "time1": 1,
+        "time2": 142,
+        "wh": 218987,
+        "dtype": 68,
+        "dist": 822,
+        "root": 298732058,
+        "kindId": 0,
+        "brand": "X-game",
+        "brandId": 13229,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус Dark Shadow, Black",
+        "entity": "",
+        "matchId": 2341740,
+        "supplier": "NDS - Оригинальные товары с гарантией",
+        "supplierId": 956483,
+        "supplierRating": 4.7,
+        "supplierFlags": 8000,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 4.5,
+        "nmReviewRating": 4.5,
+        "feedbacks": 35,
+        "nmFeedbacks": 35,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 495,
+        "viewFlags": 65681,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 477607682,
+            "wh": 218987,
+            "time1": 1,
+            "time2": 142,
+            "dtype": 68,
+            "price": {
+              "basic": 50910000,
+              "product": 39830000,
+              "total": 67930000,
+              "logistics": 28100000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "1pgsAE9dWN9vh9LL2WevFbzKMQELy3y3ja8RwJz7teXX98ACDNUB8BFMZCDXO5zUMqEstDnCEgYRcls"
+          }
+        ],
+        "totalQuantity": 27,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 403000156,
+        "time1": 3,
+        "time2": 268,
+        "wh": 507,
+        "dtype": 68,
+        "dist": 3564,
+        "root": 369935235,
+        "kindId": 0,
+        "brand": "Digma",
+        "brandId": 8321,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус ATX OCC-MD303, Midi-Tower",
+        "entity": "",
+        "matchId": 0,
+        "supplier": "СИТИЛИНК",
+        "supplierId": 250000581,
+        "supplierRating": 4.9,
+        "supplierFlags": 12240,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 25,
+        "nmFeedbacks": 25,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 486,
+        "viewFlags": 1384586,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 580953271,
+            "wh": 507,
+            "time1": 3,
+            "time2": 268,
+            "dtype": 68,
+            "price": {
+              "basic": 59570000,
+              "product": 48940000,
+              "total": 81300000,
+              "logistics": 32360000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "qKi5/GiTr9egkCl/41gjtNjgOwEbrUTseZuXooes1YJYG3Wo1MXuRfEq4e8Nrp7jSPzBctzQXf9WtHM"
+          }
+        ],
+        "totalQuantity": 22,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 243529514,
+        "time1": 6,
+        "time2": 231,
+        "wh": 206348,
+        "dtype": 68,
+        "dist": 3677,
+        "root": 218811729,
+        "kindId": 0,
+        "brand": "FORMULA",
+        "brandId": 17407,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "AIR POWER G5 Black Mid Tower Компьютерный корпус",
+        "entity": "",
+        "matchId": 1528176,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 9,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 47,
+        "nmFeedbacks": 47,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 572,
+        "viewFlags": 1384649,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 382164262,
+            "wh": 206348,
+            "time1": 6,
+            "time2": 231,
+            "dtype": 68,
+            "price": {
+              "basic": 74510000,
+              "product": 64800000,
+              "total": 103090000,
+              "logistics": 38290000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "iTvIz6+fvbUBNBedjNxBr5HyelO8KTmOJKLv/l1mZPKIXqtJ7gmM9iHzm1OEgzVjHKd0bee68fSDKgM"
+          }
+        ],
+        "totalQuantity": 1,
+        "log": {
+          "cpm": 205,
+          "promotion": 1,
+          "promoPosition": 11,
+          "position": 33,
+          "advertId": 23977401,
+          "tp": "b"
+        },
+        "logs": "MrOUVCcDZe07QAzpHNPGgaDivdkFLxGHXelx1NRD3QpBqo17YRzy7mk8DJtCfM2ykbk6KF3s",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 243529495,
+        "time1": 32,
+        "time2": 268,
+        "wh": 119261,
+        "dtype": 65,
+        "dist": 3564,
+        "root": 218811743,
+        "kindId": 0,
+        "brand": "FORMULA",
+        "brandId": 17407,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "CRYSTAL Z1 Black Mid Tower Компьютерный корпус",
+        "entity": "",
+        "matchId": 428901,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 173,
+        "nmFeedbacks": 173,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 572,
+        "viewFlags": 1319049,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 382164243,
+            "wh": 119261,
+            "time1": 32,
+            "time2": 268,
+            "dtype": 65,
+            "price": {
+              "basic": 54280000,
+              "product": 44120000,
+              "total": 82200000,
+              "logistics": 38080000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "UhgL/zaJV0J8KtQShs8prekOAq65W7FN1rkuMJiEYtZUkvp1skHstrqBqA5wYzlAjFQKzfIsEBVsFD0"
+          }
+        ],
+        "totalQuantity": 200,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 336635180,
+        "time1": 29,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 319723809,
+        "kindId": 0,
+        "brand": "PCCooler",
+        "brandId": 81307,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для компьютера C3D310 BK ARGB Mini Tower",
+        "entity": "",
+        "matchId": 186163754,
+        "supplier": "Getsy",
+        "supplierId": 1320048,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 1,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 40,
+        "nmFeedbacks": 40,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 743,
+        "viewFlags": 1433729,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 502448224,
+            "wh": 211730,
+            "time1": 29,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 59060000,
+              "product": 48190000,
+              "total": 97370000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "iX9NgoS1GGPzxcX4JwKQW2rUHO92QvjXdDlCW4DA/L1PGDv6OWPnW7I+zAQiOAjeq6dgbtmV3XSLTzU"
+          }
+        ],
+        "totalQuantity": 4,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 417504204,
+        "time1": 3,
+        "time2": 268,
+        "wh": 507,
+        "dtype": 68,
+        "dist": 3564,
+        "root": 369935235,
+        "kindId": 0,
+        "brand": "Digma",
+        "brandId": 8321,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус ATX OCC-MN307, Mini-Tower",
+        "entity": "",
+        "matchId": 0,
+        "supplier": "СИТИЛИНК",
+        "supplierId": 250000581,
+        "supplierRating": 4.9,
+        "supplierFlags": 12240,
+        "pics": 9,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 25,
+        "nmFeedbacks": 25,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 428,
+        "viewFlags": 1319050,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 597451160,
+            "wh": 507,
+            "time1": 3,
+            "time2": 268,
+            "dtype": 68,
+            "price": {
+              "basic": 48050000,
+              "product": 40520000,
+              "total": 69020000,
+              "logistics": 28500000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "o3aBDeSLeSSPa7Szm2Q41/1CDulcPpK8UeORNKD1r2c+t9biZOuYqiTsd2G9YGqr0ELy2IGeyiSx5K4"
+          }
+        ],
+        "totalQuantity": 35,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 267957996,
+        "time1": 29,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 246283978,
+        "kindId": 0,
+        "brand": "Foxline",
+        "brandId": 75085,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус компьютерный FL-733R-FZ450R-U32",
+        "entity": "",
+        "matchId": 135352,
+        "supplier": "Getsy",
+        "supplierId": 1320048,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 4,
+        "rating": 3,
+        "reviewRating": 3,
+        "nmReviewRating": 3,
+        "feedbacks": 1,
+        "nmFeedbacks": 1,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 406,
+        "viewFlags": 1401024,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 415118854,
+            "wh": 211730,
+            "time1": 29,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 46720000,
+              "product": 36240000,
+              "total": 63230000,
+              "logistics": 26990000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "c7tjZogIQ5WmDtKlmojpfkZ+fDyBKi58KG0SHebaYB2V/j6dJOWn9/2pbFJBc9iGrhd5Ofg32Zuv8kQ"
+          }
+        ],
+        "totalQuantity": 1310,
+        "log": {
+          "cpm": 125,
+          "promotion": 1,
+          "promoPosition": 15,
+          "position": 25,
+          "advertId": 20203193,
+          "tp": "b"
+        },
+        "logs": "MmhJj64yLxQGmRLIDT783GYQilEPwXU/K0NoTvfXApnK7jLGm69KhmpDadR0xpmPvqXWGKTZ",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 313544903,
+        "time1": 3,
+        "time2": 268,
+        "wh": 507,
+        "dtype": 68,
+        "dist": 3564,
+        "root": 294773801,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой с 3 вентиляторами FRGB microATX черный",
+        "entity": "",
+        "matchId": 8593519,
+        "supplier": "Original Brands Store",
+        "supplierId": 54852,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 14,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 575,
+        "nmFeedbacks": 575,
+        "volume": 414,
+        "viewFlags": 1581264,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 473633702,
+            "wh": 507,
+            "time1": 3,
+            "time2": 268,
+            "dtype": 68,
+            "price": {
+              "basic": 70990000,
+              "product": 57200000,
+              "total": 84760000,
+              "logistics": 27560000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "Lvs3H/CR5HK1UtHaazaQq6mE/3aaGmlyFIEJJ1X1OHbnovmvsPEtpfqc/B5Y4+aETHmnrAAmtB05J9k"
+          }
+        ],
+        "totalQuantity": 46,
+        "log": {
+          "cpm": 195,
+          "promotion": 1,
+          "promoPosition": 16,
+          "position": 41,
+          "advertId": 25102138,
+          "tp": "b"
+        },
+        "logs": "MsPT8TUKqodXMuB8WjQidl14dLd1SQHelm502Ni4+s7OFwFaBx3f8KNC3/clfuosrkEOZRz9",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 267958029,
+        "time1": 29,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 246284007,
+        "kindId": 0,
+        "brand": "Foxline",
+        "brandId": 75085,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус компьютерный FL-733-FZ450R",
+        "entity": "",
+        "matchId": 267092,
+        "supplier": "Getsy",
+        "supplierId": 1320048,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 3,
+        "nmFeedbacks": 3,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 707,
+        "viewFlags": 1433793,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 415118891,
+            "wh": 211730,
+            "time1": 29,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 49820000,
+              "product": 39200000,
+              "total": 86200000,
+              "logistics": 47000000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "ybIois1ShU4pXJ7EALXNenS/tLkGHkpby2fxDxJDG4qYJitcspRVHtx462eg3r1UxWi5+iqHQDfQ7iQ"
+          }
+        ],
+        "totalQuantity": 214,
+        "log": {
+          "cpm": 125,
+          "promotion": 1,
+          "promoPosition": 17,
+          "position": 33,
+          "advertId": 20203193,
+          "tp": "b"
+        },
+        "logs": "Mq4xNW5fydqngpz28CArouPa9aR995f42jEYj9vZdAYiE+W4OrLYRQc8ri3kz4PWHYLqYZWA",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 328165125,
+        "time1": 23,
+        "time2": 266,
+        "wh": 304803,
+        "dtype": 65,
+        "dist": 3547,
+        "root": 309335234,
+        "kindId": 0,
+        "brand": "Zalman",
+        "brandId": 34008,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК ATX Miditower i3 Black",
+        "entity": "",
+        "matchId": 37855,
+        "supplier": "ЕКОМ",
+        "supplierId": 430562,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 12,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 65,
+        "nmFeedbacks": 65,
+        "volume": 496,
+        "viewFlags": 1433793,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 492288361,
+            "wh": 304803,
+            "time1": 23,
+            "time2": 266,
+            "dtype": 65,
+            "price": {
+              "basic": 94000000,
+              "product": 74820000,
+              "total": 107810000,
+              "logistics": 32990000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "BLNehBv7WvAAZoIq60zgYDqYjw+WGDOFc9H6EIZp6Gi256kI56BiH9JgxUKe72Sgi92U0qzh72+4cJA"
+          }
+        ],
+        "totalQuantity": 13,
+        "log": {
+          "cpm": 313,
+          "promotion": 1,
+          "promoPosition": 18,
+          "position": 51,
+          "advertId": 24410127,
+          "tp": "b"
+        },
+        "logs": "Mu61C+G3hMl+KwghEDF+uo01Q67LTNwjGzia7p0RibWoIP69iHUDxzihvf/AevH2XQ51UmInSg",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 313544908,
+        "time1": 3,
+        "time2": 268,
+        "wh": 507,
+        "dtype": 68,
+        "dist": 3564,
+        "root": 294773801,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой аквариум microATX черный",
+        "entity": "",
+        "matchId": 8593519,
+        "supplier": "Original Brands Store",
+        "supplierId": 54852,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 14,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 575,
+        "nmFeedbacks": 575,
+        "volume": 408,
+        "viewFlags": 1581264,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 473633707,
+            "wh": 507,
+            "time1": 3,
+            "time2": 268,
+            "dtype": 68,
+            "price": {
+              "basic": 55790000,
+              "product": 46800000,
+              "total": 73960000,
+              "logistics": 27160000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "wlLVQiuCcp4+1xnLZnnfyF1qSPEu25+j/BGMdxQh7gyoDV0ct0VgsCRBmuTxZkSdE0TN8TAgTJtsY6o"
+          }
+        ],
+        "totalQuantity": 90,
+        "log": {
+          "cpm": 175,
+          "promotion": 1,
+          "promoPosition": 19,
+          "position": 41,
+          "advertId": 25102123,
+          "tp": "b"
+        },
+        "logs": "MkFReu91aB9aKXrR9YvwQje7klvaazY47RhRLviazBmFlK39uE3AT8Gg6Qn0wBf8IOnAtM6k",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 377744625,
+        "time1": 6,
+        "time2": 231,
+        "wh": 206348,
+        "dtype": 68,
+        "dist": 3677,
+        "root": 369934965,
+        "kindId": 0,
+        "brand": "Accord",
+        "brandId": 60337,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Mid Tower Black Компьютерный корпус ACC-CL295RGB",
+        "entity": "",
+        "matchId": 858637,
+        "supplier": "СИТИЛИНК",
+        "supplierId": 250000581,
+        "supplierRating": 4.9,
+        "supplierFlags": 12240,
+        "pics": 18,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 14,
+        "nmFeedbacks": 14,
+        "feedbackPoints": 300,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 423,
+        "viewFlags": 1319049,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 550233912,
+            "wh": 206348,
+            "time1": 6,
+            "time2": 231,
+            "dtype": 68,
+            "price": {
+              "basic": 55640000,
+              "product": 45320000,
+              "total": 73640000,
+              "logistics": 28320000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "hf6S9B7eHXpKT7b5kBvXU7dpG85C9lgMWlDxfPyzaTdNtIsJCd3gQfF3CtNPg50LUkPnjPqrRs7LcQc"
+          }
+        ],
+        "totalQuantity": 55,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 267958016,
+        "time1": 29,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 246283993,
+        "kindId": 0,
+        "brand": "Foxline",
+        "brandId": 75085,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус компьютерный FL-301-FZ450R",
+        "entity": "",
+        "matchId": 590460,
+        "supplier": "Getsy",
+        "supplierId": 1320048,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 3,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 11,
+        "nmFeedbacks": 11,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 496,
+        "viewFlags": 1401024,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 415118878,
+            "wh": 211730,
+            "time1": 29,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 48960000,
+              "product": 38940000,
+              "total": 71910000,
+              "logistics": 32970000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "xQXEstiv8k4/oCu3Dhd891LMMO7kh9dxrblzg0mRfn1beyt9rwOncnxVHGVDxYdiIIgSlTjw1zpgmto"
+          }
+        ],
+        "totalQuantity": 317,
+        "log": {
+          "cpm": 125,
+          "promotion": 1,
+          "promoPosition": 21,
+          "position": 37,
+          "advertId": 20203193,
+          "tp": "b"
+        },
+        "logs": "MgzDn0jjmGvn65dYZXxFKWOideBqcIGI4YI7mkVYovhxVB6KFjrFVJhD+g/LaYc6ANChscg6",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 336639794,
+        "time1": 29,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 319728458,
+        "kindId": 0,
+        "brand": "PCCooler",
+        "brandId": 81307,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для компьютера ME200 MESH WH Full Tower",
+        "entity": "",
+        "matchId": 202445240,
+        "supplier": "Getsy",
+        "supplierId": 1320048,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 1,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 5,
+        "nmFeedbacks": 5,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 1094,
+        "viewFlags": 1433793,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 502453958,
+            "wh": 211730,
+            "time1": 29,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 94260000,
+              "product": 79060000,
+              "total": 128240000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "uNg65FHiQVn98EI88a5cJC1C7h2pmwB0Bw95MyUBPGUD3p4e1Ym9vBbxL2/Nuus6Yfby3SNGPkv8MhA"
+          }
+        ],
+        "totalQuantity": 4,
+        "log": {
+          "cpm": 125,
+          "promotion": 1,
+          "promoPosition": 22,
+          "position": 40,
+          "advertId": 20203193,
+          "tp": "b"
+        },
+        "logs": "Mpzt+QZp+TCPgaZBmuW1XQCXvIe1xWDTppO53extkZA58PCq/HQDprp+Py+iRsgYPHERPgrK",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 402995300,
+        "time1": 3,
+        "time2": 268,
+        "wh": 507,
+        "dtype": 68,
+        "dist": 3564,
+        "root": 369935235,
+        "kindId": 0,
+        "brand": "Digma",
+        "brandId": 8321,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус ATX OCC-MD301, Midi-Tower",
+        "entity": "",
+        "matchId": 0,
+        "supplier": "СИТИЛИНК",
+        "supplierId": 250000581,
+        "supplierRating": 4.9,
+        "supplierFlags": 12240,
+        "pics": 9,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 25,
+        "nmFeedbacks": 25,
+        "feedbackPoints": 1500,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 486,
+        "viewFlags": 1384586,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 580947465,
+            "wh": 507,
+            "time1": 3,
+            "time2": 268,
+            "dtype": 68,
+            "price": {
+              "basic": 72320000,
+              "product": 57140000,
+              "total": 89500000,
+              "logistics": 32360000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "A/6AjzQLhbpaA/Ukf8lcNfUihH+MocJMZMJL6+d4QR9SVPKIDoTzv29fgmUSuGv7hKu9QUWZp+1A34A"
+          }
+        ],
+        "totalQuantity": 36,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 401542023,
+        "time1": 34,
+        "time2": 307,
+        "wh": 218671,
+        "dtype": 65,
+        "dist": 3562,
+        "root": 395100074,
+        "kindId": 0,
+        "brand": "Zircon",
+        "brandId": 698334,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК ATX Lantan без БП",
+        "entity": "",
+        "matchId": 0,
+        "supplier": "КупИш - всё просто",
+        "supplierId": 4401160,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 9,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 2,
+        "nmFeedbacks": 2,
+        "volume": 519,
+        "viewFlags": 1433744,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 579313738,
+            "wh": 218671,
+            "time1": 34,
+            "time2": 307,
+            "dtype": 65,
+            "price": {
+              "basic": 59100000,
+              "product": 49140000,
+              "total": 83700000,
+              "logistics": 34560000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "To5TnFLogD2oPbNuva9iSJanYeKmmdyuthlg8OwQy6sirAyfEiAalRF7ekW+EeAzaDxzWSFRNsCF7Hs"
+          }
+        ],
+        "totalQuantity": 262,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 377744781,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 422388319,
+        "kindId": 0,
+        "brand": "Accord",
+        "brandId": 60337,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Компьютерный корпус ENTRY ACC-241 Mini-Tower черный",
+        "entity": "",
+        "matchId": 971174,
+        "supplier": "СИТИЛИНК",
+        "supplierId": 250000581,
+        "supplierRating": 4.9,
+        "supplierFlags": 12240,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 30,
+        "nmFeedbacks": 30,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 308,
+        "viewFlags": 1318920,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 550234068,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 24790000,
+              "product": 20170000,
+              "total": 40680000,
+              "logistics": 20510000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "sQY6mIOlRKF4oTD8SluW9119uToJDAx9bee9IAT/10ybq1E37Tywn2MCiBPDzCaGApOWh2zk4rV3uL8"
+          }
+        ],
+        "totalQuantity": 112,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 243529473,
+        "time1": 4,
+        "time2": 253,
+        "wh": 301760,
+        "dtype": 68,
+        "dist": 3705,
+        "root": 218811721,
+        "kindId": 0,
+        "brand": "AEROCOOL",
+        "brandId": 59203,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус Glider Cosmo-G-BK-v1",
+        "entity": "",
+        "matchId": 124104,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 26,
+        "rating": 5,
+        "reviewRating": 4.6,
+        "nmReviewRating": 4.6,
+        "feedbacks": 37,
+        "nmFeedbacks": 37,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 497,
+        "viewFlags": 1384649,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 382164221,
+            "wh": 301760,
+            "time1": 4,
+            "time2": 253,
+            "dtype": 68,
+            "price": {
+              "basic": 82530000,
+              "product": 64280000,
+              "total": 97600000,
+              "logistics": 33320000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "YJtP+4orM7MU18vAzZxcF8Kgx0FN1vTDi9xUjWInyQThoMpNFG/E8u2tkoUWt3SFtt/hekKTCUGUeqI"
+          }
+        ],
+        "totalQuantity": 79,
+        "log": {
+          "cpm": 205,
+          "promotion": 1,
+          "promoPosition": 26,
+          "position": 57,
+          "advertId": 23969041,
+          "tp": "b"
+        },
+        "logs": "Mo7zxQEMDJb0Ipyit2IcAANhJJX1GQVUPK4kBucWUbWcZQsOzopVXF0uO5bMc9BtZa0SIZRnNQ",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 158936523,
+        "time1": 1,
+        "time2": 142,
+        "wh": 218987,
+        "dtype": 68,
+        "dist": 822,
+        "root": 211669983,
+        "kindId": 0,
+        "brand": "X-Game",
+        "brandId": 13229,
+        "siteBrandId": 23229,
+        "colors": [],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для пк - Dark Shadow",
+        "entity": "",
+        "matchId": 2341740,
+        "supplier": "Karina Bai",
+        "supplierId": 458166,
+        "supplierRating": 4.7,
+        "supplierFlags": 8000,
+        "pics": 3,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 119,
+        "nmFeedbacks": 119,
+        "volume": 485,
+        "viewFlags": 65664,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 264464234,
+            "wh": 218987,
+            "time1": 1,
+            "time2": 142,
+            "dtype": 68,
+            "price": {
+              "basic": 59530000,
+              "product": 41270000,
+              "total": 68810000,
+              "logistics": 27540000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "eAZJsfnE4s3P3xj7anPl0hUphBjg61IwOkUS4okWEPwhU3KqtNYVWr+kUdOQhxYcsDTTWd8Thg2ibp4"
+          }
+        ],
+        "totalQuantity": 8,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 336635076,
+        "time1": 29,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 319723721,
+        "kindId": 0,
+        "brand": "PCCooler",
+        "brandId": 81307,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для компьютера LM300 ARGB WH Midi Tower",
+        "entity": "",
+        "matchId": 204323510,
+        "supplier": "Getsy",
+        "supplierId": 1320048,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 1,
+        "rating": 0,
+        "reviewRating": 0,
+        "nmReviewRating": 0,
+        "feedbacks": 0,
+        "nmFeedbacks": 0,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 644,
+        "viewFlags": 1433730,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 502447902,
+            "wh": 211730,
+            "time1": 29,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 59340000,
+              "product": 46520000,
+              "total": 89340000,
+              "logistics": 42820000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "ob0UJgUHPjGnQwthjPYcUqvZAbmsnWjmxhjJs2zB9Mj7Qnjipndo8GWxAWMQzWJL+05ihApJJTgoRJM"
+          }
+        ],
+        "totalQuantity": 28,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 314203430,
+        "time1": 3,
+        "time2": 268,
+        "wh": 507,
+        "dtype": 68,
+        "dist": 3564,
+        "root": 331780553,
+        "kindId": 0,
+        "brand": "PcCOOLER",
+        "brandId": 81307,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "C3D510 ARGB Black Mid Tower Компьютерный корпус",
+        "entity": "",
+        "matchId": 210029948,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 15,
+        "nmFeedbacks": 15,
+        "feedbackPoints": 300,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 816,
+        "viewFlags": 1417408,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 474470347,
+            "wh": 507,
+            "time1": 3,
+            "time2": 268,
+            "dtype": 68,
+            "price": {
+              "basic": 118190000,
+              "product": 92000000,
+              "total": 141180000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "OrD4vuUHSaDMoTnkiaR7Rvy6XoX7WAyVfDUsBG8mapneKx6IzHy8CagKQKcdtPPIsdlRT8CBg85e6fk"
+          }
+        ],
+        "totalQuantity": 1,
+        "log": {
+          "cpm": 135,
+          "promotion": 1,
+          "promoPosition": 29,
+          "position": 49,
+          "advertId": 24408122,
+          "tp": "b"
+        },
+        "logs": "MuHYduKtCMMayqg7k2vfNanTWv3WpqiCkOXzGd6Ej85wIvBHF0Ber2+82+yrwD51LSQUnVqM3w",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 399742592,
+        "time1": 29,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 393370093,
+        "kindId": 0,
+        "brand": "RAIJINTEK",
+        "brandId": 768195,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для компьютера ATREUS BT4, (0R20B00255), черный",
+        "entity": "",
+        "matchId": 0,
+        "supplier": "Getsy",
+        "supplierId": 1320048,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 10,
+        "rating": 0,
+        "reviewRating": 0,
+        "nmReviewRating": 0,
+        "feedbacks": 0,
+        "nmFeedbacks": 0,
+        "volume": 627,
+        "viewFlags": 1433794,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 577205871,
+            "wh": 211730,
+            "time1": 29,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 136390000,
+              "product": 106930000,
+              "total": 148620000,
+              "logistics": 41690000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "ftrfccYIJeLD1qFB5FdLL+ChO+fakLmXuTOiHUf8MU4FuiKQr6r9Tp2CbixxWaTOAEKjrtB4zVQjgMI"
+          }
+        ],
+        "totalQuantity": 44,
+        "log": {
+          "cpm": 125,
+          "promotion": 1,
+          "promoPosition": 30,
+          "position": 49,
+          "advertId": 20203193,
+          "tp": "b"
+        },
+        "logs": "MjYgl9+6wBdDrUl48F96PAJYcvhzIfO/5yWZdFCenykHUTnp8S0reabdIECejPGKYr/NrH8kWA",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 227145510,
+        "time1": 1,
+        "time2": 142,
+        "wh": 218987,
+        "dtype": 68,
+        "dist": 822,
+        "root": 204393511,
+        "kindId": 0,
+        "brand": "DEEPCOOL",
+        "brandId": 63434,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "MATREXX 30 Black Mini Tower Компьютерный корпус",
+        "entity": "",
+        "matchId": 27944,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 11,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 52,
+        "nmFeedbacks": 52,
+        "volume": 516,
+        "viewFlags": 1384648,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 359477810,
+            "wh": 218987,
+            "time1": 1,
+            "time2": 142,
+            "dtype": 68,
+            "price": {
+              "basic": 54890000,
+              "product": 51530000,
+              "total": 80830000,
+              "logistics": 29300000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "xbJU2oufpXTd7Ty9MiMU0FRIyIuSXzBBntRD+3nZ2p/TMTNNJUVcLZd3cOs7FisJS7waGVQGNtkPd78"
+          }
+        ],
+        "totalQuantity": 1,
+        "log": {
+          "cpm": 205,
+          "promotion": 1,
+          "promoPosition": 31,
+          "position": 56,
+          "advertId": 24070182,
+          "tp": "b"
+        },
+        "logs": "MuZ1sriQy4bHJIQBVnQ4yTrRYXd3IBzDnAEdhCIcHmQj4UQYNq7dq00ppqj9lraV99V/cKiNrA",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 347388989,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 331780585,
+        "kindId": 0,
+        "brand": "ACCORD",
+        "brandId": 60337,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Mid Tower Black Компьютерный корпус ACC-ZA06B",
+        "entity": "",
+        "matchId": 210030109,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 77,
+        "nmFeedbacks": 77,
+        "volume": 888,
+        "viewFlags": 1417353,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 515119253,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 102380000,
+              "product": 82760000,
+              "total": 131940000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "sATpy5m2iZAOQrJtKEkPmIf8QLuXbTLEXzjg+uQjQ3gXHr1kFzv0+UBG1nAdXkHpOgcCpHOW+M+Z7+A"
+          }
+        ],
+        "totalQuantity": 12,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 194887681,
+        "time1": 24,
+        "time2": 360,
+        "wh": 208782,
+        "dtype": 65,
+        "dist": 3532,
+        "root": 177043637,
+        "kindId": 0,
+        "brand": "ALSEYE",
+        "brandId": 930407,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус Auro (AURA) 3.0, Middle Tower, Черный",
+        "entity": "",
+        "matchId": 1542069,
+        "supplier": "Modern Device",
+        "supplierId": 768659,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 10,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 100,
+        "nmFeedbacks": 100,
+        "volume": 507,
+        "viewFlags": 1384576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 316892782,
+            "wh": 208782,
+            "time1": 24,
+            "time2": 360,
+            "dtype": 65,
+            "price": {
+              "basic": 52390000,
+              "product": 49770000,
+              "total": 83460000,
+              "logistics": 33690000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "gn6mL09r0I/xtodVWIkLCGsa+LBBdw2NyJiKm6SN9ioW2BCEm8lWmEpoEHhKGKp3VC4btzDU80W2nA8"
+          }
+        ],
+        "totalQuantity": 100,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 311627141,
+        "time1": 32,
+        "time2": 268,
+        "wh": 119261,
+        "dtype": 65,
+        "dist": 3564,
+        "root": 292721184,
+        "kindId": 0,
+        "brand": "MSI",
+        "brandId": 27445,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус MAG Forge M100R черный без БП mATX 2x120mm 2xUSB2",
+        "entity": "",
+        "matchId": 1405640,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.5,
+        "nmReviewRating": 4.5,
+        "feedbacks": 4,
+        "nmFeedbacks": 4,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 561,
+        "viewFlags": 1384585,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 471335180,
+            "wh": 119261,
+            "time1": 32,
+            "time2": 268,
+            "dtype": 65,
+            "price": {
+              "basic": 74820000,
+              "product": 62600000,
+              "total": 99950000,
+              "logistics": 37350000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "maMJNqWBCFu24RBthG1a7cdUOWVio9v+1tTf6knlLXdzb3HCIA4URtn+aCZlBEL1slwv/+SI4r5QyDI"
+          }
+        ],
+        "totalQuantity": 109,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 317576646,
+        "time1": 3,
+        "time2": 268,
+        "wh": 507,
+        "dtype": 68,
+        "dist": 3564,
+        "root": 299067265,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой с 4 вентиляторами FRGB microATX",
+        "entity": "",
+        "matchId": 6431268,
+        "supplier": "Techno Mall",
+        "supplierId": 4202119,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 11,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 91,
+        "nmFeedbacks": 91,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 346,
+        "viewFlags": 1581264,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 478750689,
+            "wh": 507,
+            "time1": 3,
+            "time2": 268,
+            "dtype": 68,
+            "price": {
+              "basic": 84520000,
+              "product": 58440000,
+              "total": 81480000,
+              "logistics": 23040000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "GfIvLmN2lzgDz22cltX8Uog6+TaGtqN7GE7tUNHQ/n57cGASjAvebVNLkRQK3rQ1gBW29W9Vcj6vovI"
+          }
+        ],
+        "totalQuantity": 20,
+        "log": {
+          "cpm": 195,
+          "promotion": 1,
+          "promoPosition": 35,
+          "position": 59,
+          "advertId": 25106167,
+          "tp": "b"
+        },
+        "logs": "MlJ6aJsgxn01CFGTy/T1IIT1s+c8h/l4mUVqbPCczko8eFO+YT/dFJ2EVxEOuidWClGWcLP8wA",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 301604135,
+        "time1": 32,
+        "time2": 268,
+        "wh": 119261,
+        "dtype": 65,
+        "dist": 3564,
+        "root": 281887107,
+        "kindId": 0,
+        "brand": "DEEPCOOL",
+        "brandId": 63434,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Компьютерный корпус CC560 V2 Mid Tower",
+        "entity": "",
+        "matchId": 288076,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 12,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 29,
+        "nmFeedbacks": 29,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 742,
+        "viewFlags": 1417352,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 458323823,
+            "wh": 119261,
+            "time1": 32,
+            "time2": 268,
+            "dtype": 65,
+            "price": {
+              "basic": 86440000,
+              "product": 70530000,
+              "total": 119710000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "bWiXJB0IKrqBtxWT3nSHaO0YhRoogiDRQilTcFXuO5WDcDm+8Nw/SxwpmZ1CPJl+iT+u3Xzj1m88LEw"
+          }
+        ],
+        "totalQuantity": 200,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 377744643,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 369934983,
+        "kindId": 0,
+        "brand": "Accord",
+        "brandId": 60337,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Mid Tower Black Компьютерный корпус ACC-CL290B",
+        "entity": "",
+        "matchId": 424949,
+        "supplier": "СИТИЛИНК",
+        "supplierId": 250000581,
+        "supplierRating": 4.9,
+        "supplierFlags": 12240,
+        "pics": 10,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 24,
+        "nmFeedbacks": 24,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 423,
+        "viewFlags": 1319048,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 550233930,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 44450000,
+              "product": 36250000,
+              "total": 64430000,
+              "logistics": 28180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "kVROBlLtw51Js5c+yEJckP4MH/bfCmmNy/aLCoY8mbETy6CU5MXXKcLn2VvqHDZrXQVkS74sYjUFcwM"
+          }
+        ],
+        "totalQuantity": 134,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 384948717,
+        "time1": 29,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 376544329,
+        "kindId": 0,
+        "brand": "Foxline",
+        "brandId": 75085,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для компьютера FZ-015 (FZ-015-SX450R-U32), черный",
+        "entity": "",
+        "matchId": 1684157,
+        "supplier": "Getsy",
+        "supplierId": 1320048,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 5,
+        "rating": 0,
+        "reviewRating": 0,
+        "nmReviewRating": 0,
+        "feedbacks": 0,
+        "nmFeedbacks": 0,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 350,
+        "viewFlags": 1335360,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 558162590,
+            "wh": 211730,
+            "time1": 29,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 43230000,
+              "product": 34440000,
+              "total": 57710000,
+              "logistics": 23270000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "llfrbsNYOK2HBHlhFmdDrcAxLLEE9nDrTvHsQXx8qbiLU1j4HNf9scoSQwqDa+UxzPBL84kiWUxx7UY"
+          }
+        ],
+        "totalQuantity": 470,
+        "log": {
+          "cpm": 125,
+          "promotion": 1,
+          "promoPosition": 38,
+          "position": 56,
+          "advertId": 20203193,
+          "tp": "b"
+        },
+        "logs": "MraCrOLFw9hr7B0Pz0DTN9En9ZdK1b1t7nH7hj3kE1XvXVurcoSkV0sgFBkmY8LmEYDG7kARUw",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 417028761,
+        "time1": 34,
+        "time2": 307,
+        "wh": 218671,
+        "dtype": 65,
+        "dist": 3562,
+        "root": 299067265,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой аквариум черный",
+        "entity": "",
+        "matchId": 0,
+        "supplier": "Techno Mall",
+        "supplierId": 4202119,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 91,
+        "nmFeedbacks": 91,
+        "volume": 535,
+        "viewFlags": 1646802,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 596889694,
+            "wh": 218671,
+            "time1": 34,
+            "time2": 307,
+            "dtype": 65,
+            "price": {
+              "basic": 68850000,
+              "product": 55770000,
+              "total": 91390000,
+              "logistics": 35620000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "2ID8s0gCW+o3Diulu3sBx98B1wm9sYKHdd1m8xPk9m20v6S9l4lDhGinrqwkX7kAVi+/n/sgITrLq8A"
+          }
+        ],
+        "totalQuantity": 67,
+        "log": {
+          "cpm": 180,
+          "promotion": 1,
+          "promoPosition": 39,
+          "position": 60,
+          "advertId": 25652915,
+          "tp": "b"
+        },
+        "logs": "MoKFOu0yHAFjFDfX05W6cBnfieWNpgBQjAn9DYpmo8epsbUAf/RbtKbDo39bd83dpgFlKgRO2g",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 417028756,
+        "time1": 34,
+        "time2": 307,
+        "wh": 218671,
+        "dtype": 65,
+        "dist": 3562,
+        "root": 299067265,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК аквариум игровой черный",
+        "entity": "",
+        "matchId": 0,
+        "supplier": "Techno Mall",
+        "supplierId": 4202119,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 91,
+        "nmFeedbacks": 91,
+        "volume": 535,
+        "viewFlags": 1646802,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 596889689,
+            "wh": 218671,
+            "time1": 34,
+            "time2": 307,
+            "dtype": 65,
+            "price": {
+              "basic": 68850000,
+              "product": 55770000,
+              "total": 91390000,
+              "logistics": 35620000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "IeNtL/kB+8LFhr/Dpfg6l/fwL14Dr0ySRRFSO4VdO7E3Jszr7qLmyUj7uXEvBU0m0s2DMu/eS7RzRkQ"
+          }
+        ],
+        "totalQuantity": 68,
+        "log": {
+          "cpm": 180,
+          "promotion": 1,
+          "promoPosition": 40,
+          "position": 60,
+          "advertId": 25652772,
+          "tp": "b"
+        },
+        "logs": "MuLUNYiwt8ucq/xOJXGpEng9QXhrbShLZyb53goj3agwLwQNCQ3q5q92RFVnDIEThbAVWw7wvQ",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 347150597,
+        "time1": 31,
+        "time2": 254,
+        "wh": 366258,
+        "dtype": 65,
+        "dist": 3464,
+        "root": 331532133,
+        "kindId": 0,
+        "brand": "EXEGATE",
+        "brandId": 24708,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Компьютерный корпус Mistery R2 (EX294384RUS) без БП",
+        "entity": "",
+        "matchId": 566364,
+        "supplier": "ХОЛОДИЛЬНИК.РУ",
+        "supplierId": 250000315,
+        "supplierRating": 4.6,
+        "supplierFlags": 12240,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 3,
+        "nmFeedbacks": 3,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 483,
+        "viewFlags": 1384577,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 514847477,
+            "wh": 366258,
+            "time1": 31,
+            "time2": 254,
+            "dtype": 65,
+            "price": {
+              "basic": 51430000,
+              "product": 40320000,
+              "total": 72320000,
+              "logistics": 32000000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "ZRu0gktVErnhKFhnUxw27/LL2HQmyufVyMAy7tI6lhV6N5rnP3vPp9bc1t5zDokTs2GaQDiboh4DB7M"
+          }
+        ],
+        "totalQuantity": 4,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 317576659,
+        "time1": 3,
+        "time2": 268,
+        "wh": 507,
+        "dtype": 68,
+        "dist": 3564,
+        "root": 299067265,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК белый игровой аквариум microATX",
+        "entity": "",
+        "matchId": 12629042,
+        "supplier": "Techno Mall",
+        "supplierId": 4202119,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 9,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 91,
+        "nmFeedbacks": 91,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 462,
+        "viewFlags": 1646737,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 478750702,
+            "wh": 507,
+            "time1": 3,
+            "time2": 268,
+            "dtype": 68,
+            "price": {
+              "basic": 57050000,
+              "product": 46420000,
+              "total": 77180000,
+              "logistics": 30760000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "3uKOeP5lxM2xbk36c9B3ohYf56Szd74G+uT+ndRvQzV/D8sxp7U7RqtWSIFOFmCjwCZfsx1KWojhDPM"
+          }
+        ],
+        "totalQuantity": 2,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 412291490,
+        "time1": 39,
+        "time2": 360,
+        "wh": 208782,
+        "dtype": 65,
+        "dist": 3532,
+        "root": 404557655,
+        "kindId": 0,
+        "brand": "prime box",
+        "brandId": 156283,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус игровой аквариум K1B + 2 x 120 ARGB",
+        "entity": "",
+        "matchId": 0,
+        "supplier": "FRONTIME",
+        "supplierId": 767457,
+        "supplierRating": 4.8,
+        "supplierFlags": 12240,
+        "pics": 24,
+        "rating": 5,
+        "reviewRating": 4.6,
+        "nmReviewRating": 4.6,
+        "feedbacks": 8,
+        "nmFeedbacks": 8,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 279,
+        "viewFlags": 1335362,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 591237905,
+            "wh": 208782,
+            "time1": 39,
+            "time2": 360,
+            "dtype": 65,
+            "price": {
+              "basic": 60280000,
+              "product": 47920000,
+              "total": 66460000,
+              "logistics": 18540000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "wPcs9kncb1B5kuSFgPh+tp91xfz+DEq8GpwDrRhcYGmbBcathJXSKssCwJ2tXyoShimDU/e+9T6fD5k"
+          }
+        ],
+        "totalQuantity": 69,
+        "log": {
+          "cpm": 155,
+          "promotion": 1,
+          "promoPosition": 43,
+          "position": 60,
+          "advertId": 24948696,
+          "tp": "b"
+        },
+        "logs": "MrKyGrKNZDt2H3eG1PH2xuK06NR6LgRABIjt0aXv6GPebrbqPFX3s0A1QHFicMbgxQtgKwzbWQ",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 210527242,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 190347650,
+        "kindId": 0,
+        "brand": "ACCORD",
+        "brandId": 60337,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Mini Tower Black Компьютерный корпус ACC-265B",
+        "entity": "",
+        "matchId": 463128,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 6,
+        "rating": 4,
+        "reviewRating": 4.4,
+        "nmReviewRating": 4.4,
+        "feedbacks": 48,
+        "nmFeedbacks": 48,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 271,
+        "viewFlags": 1318921,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 336856365,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 40420000,
+              "product": 32660000,
+              "total": 50710000,
+              "logistics": 18050000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "8bxI835gL0Rac2oQZZFCb13Ik0QEsRz9tryhf+wc6fL5hbdDORVY2jRBD9nPnuIIsRITl346D3HD7Uc"
+          }
+        ],
+        "totalQuantity": 201,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 243529491,
+        "time1": 32,
+        "time2": 268,
+        "wh": 119261,
+        "dtype": 65,
+        "dist": 3564,
+        "root": 218811738,
+        "kindId": 0,
+        "brand": "ACCORD",
+        "brandId": 60337,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Компьютерный корпус Midi-Tower ACC-CL297B черный",
+        "entity": "",
+        "matchId": 268872,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 18,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 13,
+        "nmFeedbacks": 13,
+        "volume": 434,
+        "viewFlags": 1384585,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 382164239,
+            "wh": 119261,
+            "time1": 32,
+            "time2": 268,
+            "dtype": 65,
+            "price": {
+              "basic": 46580000,
+              "product": 39950000,
+              "total": 68840000,
+              "logistics": 28890000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "XO2yd8flhGSs2qM1CVzF8ZwC3dlQSe03TWjs+MNf6zfqkAgxc3xWg38LLtp4gzWQXI02leXE6m9/G+g"
+          }
+        ],
+        "totalQuantity": 116,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 313544896,
+        "time1": 3,
+        "time2": 268,
+        "wh": 507,
+        "dtype": 68,
+        "dist": 3564,
+        "root": 294773801,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой аквариум microATX черный",
+        "entity": "",
+        "matchId": 11643346,
+        "supplier": "Original Brands Store",
+        "supplierId": 54852,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 10,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 575,
+        "nmFeedbacks": 575,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 474,
+        "viewFlags": 1646737,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 473633695,
+            "wh": 507,
+            "time1": 3,
+            "time2": 268,
+            "dtype": 68,
+            "price": {
+              "basic": 55240000,
+              "product": 44200000,
+              "total": 75760000,
+              "logistics": 31560000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "S0yvuO2C1qtRsvwikZ7LMc4lPtcKUJVYP9zGt9zrgRFzyyW2v79JNQchPE4S4bFK8Ax7EW0z8YUhA+o"
+          }
+        ],
+        "totalQuantity": 3,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 384467827,
+        "time1": 30,
+        "time2": 360,
+        "wh": 208782,
+        "dtype": 65,
+        "dist": 3532,
+        "root": 376220940,
+        "kindId": 0,
+        "brand": "OCYPUS",
+        "brandId": 311647324,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус MiniTower Gamma C50 black",
+        "entity": "",
+        "matchId": 3104808,
+        "supplier": "F5it",
+        "supplierId": 1291979,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 3,
+        "nmFeedbacks": 3,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 551,
+        "viewFlags": 1384576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 557632315,
+            "wh": 208782,
+            "time1": 30,
+            "time2": 360,
+            "dtype": 65,
+            "price": {
+              "basic": 48260000,
+              "product": 45850000,
+              "total": 82460000,
+              "logistics": 36610000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "K76Y5o0ugoLum1znGfNJOuUmd/3lmqrQKVYQwnRiIacyjq3OlhjLHDJvuBScicbw5xDSonBiaRfVDuE"
+          }
+        ],
+        "totalQuantity": 1,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 218477326,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 197026244,
+        "kindId": 0,
+        "brand": "ALSEYE",
+        "brandId": 930407,
+        "siteBrandId": 0,
+        "colors": [],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус Big Jony-W",
+        "entity": "",
+        "matchId": 5899277,
+        "supplier": "Modern Device",
+        "supplierId": 768659,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 58,
+        "nmFeedbacks": 58,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 451,
+        "viewFlags": 1384576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 347795878,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 63780000,
+              "product": 50320000,
+              "total": 80360000,
+              "logistics": 30040000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "0QcEYfXRdZlhXebQQJ3R3dgHHRpYODHVDYW+yCwqvyEzTCOE43+FGIlI225Pg3Wt0MslB2DvK3YP3wo"
+          }
+        ],
+        "totalQuantity": 11,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 267958020,
+        "time1": 29,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 246283997,
+        "kindId": 0,
+        "brand": "Foxline",
+        "brandId": 75085,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус компьютерный FL-302-FZ500R",
+        "entity": "",
+        "matchId": 1850215,
+        "supplier": "Getsy",
+        "supplierId": 1320048,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 2,
+        "rating": 0,
+        "reviewRating": 0,
+        "nmReviewRating": 0,
+        "feedbacks": 0,
+        "nmFeedbacks": 0,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 517,
+        "viewFlags": 1400961,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 415118882,
+            "wh": 211730,
+            "time1": 29,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 48840000,
+              "product": 42540000,
+              "total": 76910000,
+              "logistics": 34370000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "NrFOQK/Bccl1LerHN2ftOXjDf1DPvj05Q0sUSwIbNQ28W09FBmfBw59drnirghD63pWgRCvPf+qrta4"
+          }
+        ],
+        "totalQuantity": 80,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 281193304,
+        "time1": 34,
+        "time2": 272,
+        "wh": 212032,
+        "dtype": 65,
+        "dist": 3507,
+        "root": 261890800,
+        "kindId": 0,
+        "brand": "Ginzzu",
+        "brandId": 10568,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для сборки ПК A410 черный",
+        "entity": "",
+        "matchId": 4358351,
+        "supplier": "Computermarket.ru",
+        "supplierId": 204588,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 12,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 92,
+        "nmFeedbacks": 92,
+        "volume": 333,
+        "viewFlags": 1319041,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 431556010,
+            "wh": 212032,
+            "time1": 34,
+            "time2": 272,
+            "dtype": 65,
+            "price": {
+              "basic": 31860000,
+              "product": 25720000,
+              "total": 47820000,
+              "logistics": 22100000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "kPC9/PuoK3HjOMl0qhDy4NqfUKRRzYK1GfgYw+xgEdm2TgcNuQYbLJp6Ml/S4Qa/tYhXqLM+kT65PKU"
+          }
+        ],
+        "totalQuantity": 21,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 377744758,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 369935098,
+        "kindId": 0,
+        "brand": "Deepcool",
+        "brandId": 63434,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "MATREXX 30 Black Mini Tower Компьютерный корпус",
+        "entity": "",
+        "matchId": 27944,
+        "supplier": "СИТИЛИНК",
+        "supplierId": 250000581,
+        "supplierRating": 4.9,
+        "supplierFlags": 12240,
+        "pics": 8,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 10,
+        "nmFeedbacks": 10,
+        "feedbackPoints": 300,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 462,
+        "viewFlags": 1384584,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 550234045,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 61480000,
+              "product": 48200000,
+              "total": 78970000,
+              "logistics": 30770000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "PE4nvAMbec0gNxMi3oARoEpjVonglvKQ96c3ii9MdQH7CILKUanyXHXFbFLUBmU0mX3JlCFNrT8ISpY"
+          }
+        ],
+        "totalQuantity": 29,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 381963375,
+        "time1": 21,
+        "time2": 312,
+        "wh": 306562,
+        "dtype": 65,
+        "dist": 2642,
+        "root": 381024906,
+        "kindId": 0,
+        "brand": "",
+        "brandId": 0,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Игровой корпус для ПК Аквариум",
+        "entity": "",
+        "matchId": 220649982,
+        "supplier": "ИП Миклуха",
+        "supplierId": 4453015,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 10,
+        "nmFeedbacks": 10,
+        "volume": 386,
+        "viewFlags": 1613825,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 554968752,
+            "wh": 306562,
+            "time1": 21,
+            "time2": 312,
+            "dtype": 65,
+            "price": {
+              "basic": 60880000,
+              "product": 50400000,
+              "total": 74640000,
+              "logistics": 24240000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "ACbFrlbf5wFOkNLZ8Ffz3L6Zu1sqNwD2FWK6kHiRadNcIX0CGwKU0zCtys4vVQtBKKkg9Oai7zLHmSE"
+          }
+        ],
+        "totalQuantity": 84,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 373178243,
+        "time1": 23,
+        "time2": 266,
+        "wh": 304803,
+        "dtype": 65,
+        "dist": 3547,
+        "root": 309335261,
+        "kindId": 0,
+        "brand": "FORMULA",
+        "brandId": 17407,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК Minitower Air Mesh G2 Black",
+        "entity": "",
+        "matchId": 1969198,
+        "supplier": "ЕКОМ",
+        "supplierId": 430562,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 27,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 88,
+        "nmFeedbacks": 88,
+        "volume": 541,
+        "viewFlags": 1433728,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 544827762,
+            "wh": 304803,
+            "time1": 23,
+            "time2": 266,
+            "dtype": 65,
+            "price": {
+              "basic": 76090000,
+              "product": 63110000,
+              "total": 99090000,
+              "logistics": 35980000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "PLoatBuFSdeB8stzmrEx+08mC/6UsuReINhr+WOA11MsxvE6sjtaYavAHJkRKHYnES8Qrv5acqw0g4Y"
+          }
+        ],
+        "totalQuantity": 11,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 366140008,
+        "time1": 23,
+        "time2": 266,
+        "wh": 304803,
+        "dtype": 65,
+        "dist": 3547,
+        "root": 309335261,
+        "kindId": 0,
+        "brand": "FORMULA",
+        "brandId": 17407,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус MicroATX Minitower Air Mesh G4 Black",
+        "entity": "",
+        "matchId": 702495,
+        "supplier": "ЕКОМ",
+        "supplierId": 430562,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 14,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 88,
+        "nmFeedbacks": 88,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 350,
+        "viewFlags": 1335297,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 536338564,
+            "wh": 304803,
+            "time1": 23,
+            "time2": 266,
+            "dtype": 65,
+            "price": {
+              "basic": 46260000,
+              "product": 38380000,
+              "total": 61660000,
+              "logistics": 23280000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "d+NNLkBzTVH4QRMQSqgwUkHBeyetAduqImYEebELE3sVOf0Aj3U4T/REuxIUNMhxVRS/2Rt2lTlI8Bc"
+          }
+        ],
+        "totalQuantity": 15,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 381836979,
+        "time1": 21,
+        "time2": 312,
+        "wh": 306562,
+        "dtype": 65,
+        "dist": 2642,
+        "root": 373642973,
+        "kindId": 0,
+        "brand": "",
+        "brandId": 0,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Игровой корпус для ПК Аквариум",
+        "entity": "",
+        "matchId": 220650138,
+        "supplier": "ИП Миклуха",
+        "supplierId": 4453015,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 14,
+        "nmFeedbacks": 14,
+        "volume": 370,
+        "viewFlags": 1581184,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 554837177,
+            "wh": 306562,
+            "time1": 21,
+            "time2": 312,
+            "dtype": 65,
+            "price": {
+              "basic": 53160000,
+              "product": 43790000,
+              "total": 67030000,
+              "logistics": 23240000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "o/BwrB0GHe6vr2yjOuPVtLN9sYiyrXHZyMM1qpsk/3Iz6naTtQOTLD9PWy7VsdtUhBJ1LOygi+XMuVY"
+          }
+        ],
+        "totalQuantity": 82,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 210527246,
+        "time1": 32,
+        "time2": 268,
+        "wh": 119261,
+        "dtype": 65,
+        "dist": 3564,
+        "root": 190347654,
+        "kindId": 0,
+        "brand": "ACCORD",
+        "brandId": 60337,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Mini Tower Black Компьютерный корпус ENTRY ACC-241",
+        "entity": "",
+        "matchId": 971174,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 228,
+        "nmFeedbacks": 228,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 287,
+        "viewFlags": 1318921,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 336856369,
+            "wh": 119261,
+            "time1": 32,
+            "time2": 268,
+            "dtype": 65,
+            "price": {
+              "basic": 24880000,
+              "product": 20820000,
+              "total": 39930000,
+              "logistics": 19110000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "MPagx4q+Jkkmqe3urHVmpzloO7YBxI5F+vBnymUeQ/LlLoDw1bZj7/1RWfSe4PVyehw9Mg76h9+w81k"
+          }
+        ],
+        "totalQuantity": 200,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 328165151,
+        "time1": 23,
+        "time2": 266,
+        "wh": 304803,
+        "dtype": 65,
+        "dist": 3547,
+        "root": 309335261,
+        "kindId": 0,
+        "brand": "FORMULA",
+        "brandId": 17407,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК ATX Miditower CS-1103-S-BK-v1 Black",
+        "entity": "",
+        "matchId": 468852,
+        "supplier": "ЕКОМ",
+        "supplierId": 430562,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 12,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 88,
+        "nmFeedbacks": 88,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 445,
+        "viewFlags": 1400960,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 492288394,
+            "wh": 304803,
+            "time1": 23,
+            "time2": 266,
+            "dtype": 65,
+            "price": {
+              "basic": 48800000,
+              "product": 38900000,
+              "total": 68500000,
+              "logistics": 29600000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "G0WRkWJUoRycl9moQZ5t9/KlLARliIn5uFIZ366Qkrsq4GkIDhDFmNV+2vSue9Lg2p5jFJNgNtt04dg"
+          }
+        ],
+        "totalQuantity": 15,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 241540430,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 216912778,
+        "kindId": 0,
+        "brand": "ALSEYE",
+        "brandId": 930407,
+        "siteBrandId": 0,
+        "colors": [],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус Phantom 1.0-BK",
+        "entity": "",
+        "matchId": 202288761,
+        "supplier": "Modern Device",
+        "supplierId": 768659,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 9,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 112,
+        "nmFeedbacks": 112,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 533,
+        "viewFlags": 1384577,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 379492379,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 63740000,
+              "product": 46540000,
+              "total": 82040000,
+              "logistics": 35500000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "RyuBdFkoptfH/40Q48cZ4XRQ5X5wIV2m4nTHpuvS4icp4J+mX/PZRCmXKmrS5N4ueCqIwBnEZC25Lyw"
+          }
+        ],
+        "totalQuantity": 8,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 165747754,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 151907024,
+        "kindId": 0,
+        "brand": "ALSEYE",
+        "brandId": 930407,
+        "siteBrandId": 0,
+        "colors": [],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Компьютерный корпус Warrior-B (ATX, Middle Tower) черный",
+        "entity": "",
+        "matchId": 743437,
+        "supplier": "Modern Device",
+        "supplierId": 768659,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 301,
+        "nmFeedbacks": 301,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 517,
+        "viewFlags": 1384576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 275954176,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 63310000,
+              "product": 50550000,
+              "total": 84990000,
+              "logistics": 34440000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "Tf11tJiDQjeZ0hFrSq29wLXyAH+fK8UNsom6a7EJMaw81xoV+ETvwy6QvzwFrZr55RLRM+ggnbVpdRk"
+          }
+        ],
+        "totalQuantity": 20,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 366140001,
+        "time1": 23,
+        "time2": 266,
+        "wh": 304803,
+        "dtype": 65,
+        "dist": 3547,
+        "root": 309335261,
+        "kindId": 0,
+        "brand": "FORMULA",
+        "brandId": 17407,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус MicroATX Minitower CS-109-S-BK-v1 Black",
+        "entity": "",
+        "matchId": 692210,
+        "supplier": "ЕКОМ",
+        "supplierId": 430562,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 15,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 88,
+        "nmFeedbacks": 88,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 382,
+        "viewFlags": 1335425,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 536338557,
+            "wh": 304803,
+            "time1": 23,
+            "time2": 266,
+            "dtype": 65,
+            "price": {
+              "basic": 50020000,
+              "product": 38900000,
+              "total": 64310000,
+              "logistics": 25410000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "CjsIOS0VbMpu4ikhuhxXgCI0WNWQlK4uAvVJHopOm63tnJf9g/sT5fwnKYoqfo/X8G+FupeJ+4QrsZg"
+          }
+        ],
+        "totalQuantity": 2,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 267958000,
+        "time1": 29,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 246283983,
+        "kindId": 0,
+        "brand": "Foxline",
+        "brandId": 75085,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус компьютерный FL-BQ5-FLX220-U32",
+        "entity": "",
+        "matchId": 1280917,
+        "supplier": "Getsy",
+        "supplierId": 1320048,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 1,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 6,
+        "nmFeedbacks": 6,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 154,
+        "viewFlags": 1335297,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 415118858,
+            "wh": 211730,
+            "time1": 29,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 51840000,
+              "product": 39970000,
+              "total": 50200000,
+              "logistics": 10230000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "y0phHFaeB+VlAbslOn0loghNNuY/sPT7ke7Sjh4CRPosl4OIjZEe1ZaWq2xFFcslbe4iyYaRkDlkuVE"
+          }
+        ],
+        "totalQuantity": 1182,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 201854677,
+        "time1": 31,
+        "time2": 307,
+        "wh": 218671,
+        "dtype": 65,
+        "dist": 3562,
+        "root": 294773801,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой аквариум micro-ATX черный",
+        "entity": "",
+        "matchId": 202379489,
+        "supplier": "Original Brands Store",
+        "supplierId": 54852,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 575,
+        "nmFeedbacks": 575,
+        "volume": 561,
+        "viewFlags": 1384656,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 325797365,
+            "wh": 218671,
+            "time1": 31,
+            "time2": 307,
+            "dtype": 65,
+            "price": {
+              "basic": 78910000,
+              "product": 68960000,
+              "total": 106310000,
+              "logistics": 37350000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "OEy1TvHViFHbxBURICqJTZO/Oiei+Qex6zuMomcOY5ONqYyob9RDITAJDkgWsbxuT1/v2DCeMeMo4xk"
+          }
+        ],
+        "totalQuantity": 69,
+        "log": {
+          "cpm": 180,
+          "promotion": 1,
+          "promoPosition": 62,
+          "position": 73,
+          "advertId": 25653225,
+          "tp": "b"
+        },
+        "logs": "MsiY1arnOCqjXuhUdqL7/S2zJEPN7v5yMPTUCcy2MZ71AAnfHi3k24AQvw6sfRlsDPmdxKOMsw",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 268365794,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 246699031,
+        "kindId": 0,
+        "brand": "Deepcool",
+        "brandId": 63434,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус CH160 Mini Tower Черный (R-CH160-BKNGI0-G-1)",
+        "entity": "",
+        "matchId": 488307,
+        "supplier": "Modern Device",
+        "supplierId": 768659,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 12,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 44,
+        "nmFeedbacks": 44,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 351,
+        "viewFlags": 1351681,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 415622709,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 73330000,
+              "product": 53790000,
+              "total": 77170000,
+              "logistics": 23380000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "USEFB6KmZYftg+cAD2kj0R7HRU3s9K4P32tyKbH6SQniOV9RUIvIqXhoJG1CHBpkkHDPU+FG76FqXsE"
+          }
+        ],
+        "totalQuantity": 54,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 235417285,
+        "time1": 24,
+        "time2": 360,
+        "wh": 208782,
+        "dtype": 65,
+        "dist": 3532,
+        "root": 211714574,
+        "kindId": 0,
+        "brand": "ALSEYE",
+        "brandId": 930407,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для компьютера X3-B, черный, Midi-Tower",
+        "entity": "",
+        "matchId": 6118613,
+        "supplier": "Modern Device",
+        "supplierId": 768659,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 8,
+        "rating": 4,
+        "reviewRating": 4.4,
+        "nmReviewRating": 4.4,
+        "feedbacks": 17,
+        "nmFeedbacks": 17,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 597,
+        "viewFlags": 1384576,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 370969032,
+            "wh": 208782,
+            "time1": 24,
+            "time2": 360,
+            "dtype": 65,
+            "price": {
+              "basic": 75910000,
+              "product": 54860000,
+              "total": 94530000,
+              "logistics": 39670000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "tNIaBJccI8gE6XfGet7meSto+5x9uepsdfs3E3+m31LipS/LQC8o7w7GFMKp6fDLyG+/LPMcXI+sSIA"
+          }
+        ],
+        "totalQuantity": 100,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 313548261,
+        "time1": 4,
+        "time2": 245,
+        "wh": 321932,
+        "dtype": 68,
+        "dist": 3480,
+        "root": 294773801,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой с RGB подсветкой microATX черный",
+        "entity": "",
+        "matchId": 11337433,
+        "supplier": "Original Brands Store",
+        "supplierId": 54852,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 10,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 575,
+        "nmFeedbacks": 575,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 494,
+        "viewFlags": 1646737,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 473638767,
+            "wh": 321932,
+            "time1": 4,
+            "time2": 245,
+            "dtype": 68,
+            "price": {
+              "basic": 57450000,
+              "product": 45500000,
+              "total": 78240000,
+              "logistics": 32740000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "I7BBRdE3wpVp7cwcmgpCM/pDbgS0VBF37HQU0lGvrO9Bmpw7Dj4SlKxZ4QtMQyEUSNigMTLL1vR2UrI"
+          }
+        ],
+        "totalQuantity": 4,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 210527247,
+        "time1": 32,
+        "time2": 268,
+        "wh": 119261,
+        "dtype": 65,
+        "dist": 3564,
+        "root": 190347655,
+        "kindId": 0,
+        "brand": "ACCORD",
+        "brandId": 60337,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Компьютерный корпус mATX ACC-263B черный",
+        "entity": "",
+        "matchId": 382921,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 13,
+        "rating": 4,
+        "reviewRating": 4.3,
+        "nmReviewRating": 4.3,
+        "feedbacks": 39,
+        "nmFeedbacks": 39,
+        "feedbackPoints": 300,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 287,
+        "viewFlags": 1318920,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 336856370,
+            "wh": 119261,
+            "time1": 32,
+            "time2": 268,
+            "dtype": 65,
+            "price": {
+              "basic": 31680000,
+              "product": 26670000,
+              "total": 45780000,
+              "logistics": 19110000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "9UqWdYw9zgx1g/Ircol8+8rP+uFQmterorFwtWcoiDaccyt/wnUjhPVl7t9MrcRBKafAgQUBg4qs6Ro"
+          }
+        ],
+        "totalQuantity": 200,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 12339990,
+        "time1": 3,
+        "time2": 268,
+        "wh": 507,
+        "dtype": 68,
+        "dist": 3564,
+        "root": 9265690,
+        "kindId": 0,
+        "brand": "ABKONCORE",
+        "brandId": 52371,
+        "siteBrandId": 62371,
+        "colors": [],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для игрового ПК Cronos 650",
+        "entity": "",
+        "matchId": 132338105,
+        "supplier": "Бизнес-фабрика",
+        "supplierId": 17090,
+        "supplierRating": 4.7,
+        "supplierFlags": 12240,
+        "pics": 26,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 21,
+        "nmFeedbacks": 21,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 769,
+        "viewFlags": 1433728,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 38377141,
+            "wh": 507,
+            "time1": 3,
+            "time2": 268,
+            "dtype": 68,
+            "price": {
+              "basic": 71390000,
+              "product": 58420000,
+              "total": 107600000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 406847488,
+            "payload": "Nt0+y2C8UFmXt2yhKEXiiZTG7YCMCjry4Z2hROPyszf0Ja4u6XXAWvmBESjrjqUjPlG0JQPJj5F6ppA"
+          }
+        ],
+        "totalQuantity": 14,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 381337732,
+        "time1": 3,
+        "time2": 250,
+        "wh": 130744,
+        "dtype": 68,
+        "dist": 4844,
+        "root": 373193967,
+        "kindId": 0,
+        "brand": "Gamemax",
+        "brandId": 62829,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК SIEGE BK без БП",
+        "entity": "",
+        "matchId": 1180317,
+        "supplier": "КупИш - всё просто",
+        "supplierId": 4401160,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 9,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 1,
+        "nmFeedbacks": 1,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 758,
+        "viewFlags": 1433793,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 554299292,
+            "wh": 130744,
+            "time1": 3,
+            "time2": 250,
+            "dtype": 68,
+            "price": {
+              "basic": 126220000,
+              "product": 106390000,
+              "total": 155570000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "TudB+gVxQIuSQZGarEcjeqq0GSKOMMwUwFhatKZBcfCQcGWqiATCn3FGOqV3Z07QY5dmrv0qJNqmggU"
+          }
+        ],
+        "totalQuantity": 3,
+        "log": {
+          "cpm": 125,
+          "promotion": 1,
+          "promoPosition": 68,
+          "position": 78,
+          "advertId": 24480019,
+          "tp": "b"
+        },
+        "logs": "Mj1vhIZTA67y7IhoA3WrHt6smrQZQgfA0j7dFZ9B7aXf7EKNqYI6nY8D86mBNlcNw90yKgEdTA",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 402986273,
+        "time1": 3,
+        "time2": 250,
+        "wh": 130744,
+        "dtype": 68,
+        "dist": 4844,
+        "root": 369935235,
+        "kindId": 0,
+        "brand": "Digma",
+        "brandId": 8321,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус mATX OCC-MN301, Mini-Tower",
+        "entity": "",
+        "matchId": 0,
+        "supplier": "СИТИЛИНК",
+        "supplierId": 250000581,
+        "supplierRating": 4.9,
+        "supplierFlags": 12240,
+        "pics": 8,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 25,
+        "nmFeedbacks": 25,
+        "feedbackPoints": 1000,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 279,
+        "viewFlags": 1318922,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 580936845,
+            "wh": 130744,
+            "time1": 3,
+            "time2": 250,
+            "dtype": 68,
+            "price": {
+              "basic": 49360000,
+              "product": 39580000,
+              "total": 59330000,
+              "logistics": 19750000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "k8BQdKYbW0WIbhy10GCj6p84Y8gzDW108COyjwuKFr62p7JB7tGEr/kuqD+oRmerZOM+kQ8cI0X2Zcw"
+          }
+        ],
+        "totalQuantity": 1,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 380979239,
+        "time1": 28,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 372867416,
+        "kindId": 0,
+        "brand": "PCCOOLER",
+        "brandId": 81307,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для компьютера ME200 MESH WH Full Tower",
+        "entity": "",
+        "matchId": 202445240,
+        "supplier": "omni sale",
+        "supplierId": 82591,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 4.5,
+        "nmReviewRating": 4.5,
+        "feedbacks": 2,
+        "nmFeedbacks": 2,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 1094,
+        "viewFlags": 1417409,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 553891215,
+            "wh": 211730,
+            "time1": 28,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 98750000,
+              "product": 75730000,
+              "total": 124910000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "Sv+qBiQ4EuC2q3rwE0Np5LjhXzMGJgSXzlUQ9OCR26IPGHPvonLP6+Fu4zgd4Qv4gjhKCj1UK1Twbec"
+          }
+        ],
+        "totalQuantity": 4,
+        "log": {
+          "cpm": 125,
+          "promotion": 1,
+          "promoPosition": 70,
+          "position": 79,
+          "advertId": 21328788,
+          "tp": "b"
+        },
+        "logs": "MvD9Cy1trYjrSYZ8bjZfJepD3gdX1lOpm1xPtpA7Xr9SCqIprrOKxwCDdV7edstBqg2VUoGMqA",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 377744582,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 369934922,
+        "kindId": 0,
+        "brand": "FORMULA",
+        "brandId": 17407,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "MANA Black Mid Tower Компьютерный корпус",
+        "entity": "",
+        "matchId": 169545,
+        "supplier": "СИТИЛИНК",
+        "supplierId": 250000581,
+        "supplierRating": 4.9,
+        "supplierFlags": 12240,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 6,
+        "nmFeedbacks": 6,
+        "feedbackPoints": 300,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 423,
+        "viewFlags": 1319048,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 550233869,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 71810000,
+              "product": 58440000,
+              "total": 86620000,
+              "logistics": 28180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "mUyZ21IMF7SDL7KjIZjjlC0LmLwri6Kr4Bc1vI4D8qkcpqS5kHI9qfC9eWq/sw/vKeeHFi/Fq6LeOe0"
+          }
+        ],
+        "totalQuantity": 26,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 391726217,
+        "time1": 52,
+        "time2": 250,
+        "wh": 208818,
+        "dtype": 65,
+        "dist": 4844,
+        "root": 379175307,
+        "kindId": 0,
+        "brand": "LIAN-LI",
+        "brandId": 768497,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой SKyline FullTower (кулера в комплекте)",
+        "entity": "",
+        "matchId": 0,
+        "supplier": "FULL.HOUSE",
+        "supplierId": 4083931,
+        "supplierRating": 4.4,
+        "supplierFlags": 12224,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.6,
+        "nmReviewRating": 4.6,
+        "feedbacks": 17,
+        "nmFeedbacks": 17,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 703,
+        "viewFlags": 1679488,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 568013667,
+            "wh": 208818,
+            "time1": 52,
+            "time2": 250,
+            "dtype": 65,
+            "price": {
+              "basic": 99470000,
+              "product": 88340000,
+              "total": 137520000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "fXNP/B6K29ipBwDC9C6mNloVWrWjnjRB+Xh8bYYz6xo87IERE/R+PoFzPbnwACMLCsK5vR4ajVM3apg"
+          }
+        ],
+        "totalQuantity": 39,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 336635072,
+        "time1": 29,
+        "time2": 281,
+        "wh": 211730,
+        "dtype": 65,
+        "dist": 3541,
+        "root": 319723717,
+        "kindId": 0,
+        "brand": "PCCooler",
+        "brandId": 81307,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для компьютера IE200 WH Full Tower",
+        "entity": "",
+        "matchId": 203717361,
+        "supplier": "Getsy",
+        "supplierId": 1320048,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 1,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 3,
+        "nmFeedbacks": 3,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 1094,
+        "viewFlags": 1433728,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 502447894,
+            "wh": 211730,
+            "time1": 29,
+            "time2": 281,
+            "dtype": 65,
+            "price": {
+              "basic": 89510000,
+              "product": 71450000,
+              "total": 120630000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "icyOfNoEz9dE99Pl0l70GjcwonQNKjLPKjjrsGpDQjbJttQ4xq5NVEAOOcct3wdDZz38J0ohmu5MRYI"
+          }
+        ],
+        "totalQuantity": 9,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 314203431,
+        "time1": 32,
+        "time2": 268,
+        "wh": 119261,
+        "dtype": 65,
+        "dist": 3564,
+        "root": 331780553,
+        "kindId": 0,
+        "brand": "PcCOOLER",
+        "brandId": 81307,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "C3D510 ARGB White Mid Tower Компьютерный корпус",
+        "entity": "",
+        "matchId": 210029947,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.9,
+        "nmReviewRating": 4.9,
+        "feedbacks": 15,
+        "nmFeedbacks": 15,
+        "feedbackPoints": 320,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 845,
+        "viewFlags": 1417345,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 474470348,
+            "wh": 119261,
+            "time1": 32,
+            "time2": 268,
+            "dtype": 65,
+            "price": {
+              "basic": 112300000,
+              "product": 87320000,
+              "total": 136500000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "XFIM0VPlWp5U+bHPf4fABYm6aEapqYeWGrQb5HZmmcYGpOHskQCTqXBvijU/GW6XFxzQMDlz0h2VL+0"
+          }
+        ],
+        "totalQuantity": 32,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 387579664,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 370633322,
+        "kindId": 0,
+        "brand": "IRON PRIDE",
+        "brandId": 311388009,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус игровой аквариум Inwader Q3S W без вентиляторов",
+        "entity": "",
+        "matchId": 224564049,
+        "supplier": "FRONTIME",
+        "supplierId": 767457,
+        "supplierRating": 4.8,
+        "supplierFlags": 12240,
+        "pics": 19,
+        "rating": 4,
+        "reviewRating": 4.4,
+        "nmReviewRating": 4.4,
+        "feedbacks": 34,
+        "nmFeedbacks": 34,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 378,
+        "viewFlags": 1368136,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 562475427,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 80750000,
+              "product": 64770000,
+              "total": 89950000,
+              "logistics": 25180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "uYGD/Qq0zsakudliPjGybxFYykzI0HlgNsvaMHTdZ5ToSipnBlZDNxjQXbYCQEWeOjVZjvUCmufeYzw"
+          }
+        ],
+        "totalQuantity": 61,
+        "log": {
+          "cpm": 135,
+          "promotion": 1,
+          "promoPosition": 75,
+          "position": 89,
+          "advertId": 24948696,
+          "tp": "b"
+        },
+        "logs": "MlKqu0Dosv5yRBeDdkCZC7ea48fpsYuN0nWgmvFXLV9p/5s8Jp3Hphc7Z8KykDPJ8f2JAR0B5Q",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 313544899,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 294773801,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой с RGB подсветкой microATX белый",
+        "entity": "",
+        "matchId": 13217007,
+        "supplier": "Original Brands Store",
+        "supplierId": 54852,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 8,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 575,
+        "nmFeedbacks": 575,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 353,
+        "viewFlags": 1581200,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 473633698,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 72050000,
+              "product": 50700000,
+              "total": 74210000,
+              "logistics": 23510000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "J7P4szCJSLvb/O0iZDfylTWFIYSHoTBOJnt4TZc+h18NLafvHQKH2NQ4coez5ChFrNm/S7nB4qfKwB4"
+          }
+        ],
+        "totalQuantity": 16,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 381202033,
+        "time1": 34,
+        "time2": 307,
+        "wh": 218671,
+        "dtype": 65,
+        "dist": 3562,
+        "root": 373055807,
+        "kindId": 0,
+        "brand": "Gamemax",
+        "brandId": 62829,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК RockStar 2 без БП",
+        "entity": "",
+        "matchId": 1043195,
+        "supplier": "КупИш - всё просто",
+        "supplierId": 4401160,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 12,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 4,
+        "nmFeedbacks": 4,
+        "volume": 648,
+        "viewFlags": 1433808,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 554154852,
+            "wh": 218671,
+            "time1": 34,
+            "time2": 307,
+            "dtype": 65,
+            "price": {
+              "basic": 120820000,
+              "product": 94730000,
+              "total": 137880000,
+              "logistics": 43150000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "71SMh8w+YX2g0tsupKnaJ4aVg8MLVwAnnqlv2/f9WHhiQJI8mn8V0Z39039Q7ZC0IWmqWPpFItS5dgk"
+          }
+        ],
+        "totalQuantity": 72,
+        "log": {
+          "cpm": 125,
+          "promotion": 1,
+          "promoPosition": 77,
+          "position": 89,
+          "advertId": 24480019,
+          "tp": "b"
+        },
+        "logs": "MtoC6eQvUp4DEio7vY/i97GiddmiMVG1IgPmUL0KJAgBVD0orRCSaU/nyFCLIychU1eFF0hocA",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 366140013,
+        "time1": 23,
+        "time2": 266,
+        "wh": 304803,
+        "dtype": 65,
+        "dist": 3547,
+        "root": 309335261,
+        "kindId": 0,
+        "brand": "FORMULA",
+        "brandId": 17407,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус MicroATX Minitower Cs-107 Black",
+        "entity": "",
+        "matchId": 118798,
+        "supplier": "ЕКОМ",
+        "supplierId": 430562,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 18,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 88,
+        "nmFeedbacks": 88,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 358,
+        "viewFlags": 1335425,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 536338569,
+            "wh": 304803,
+            "time1": 23,
+            "time2": 266,
+            "dtype": 65,
+            "price": {
+              "basic": 48950000,
+              "product": 38380000,
+              "total": 62190000,
+              "logistics": 23810000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "QxMu8P+IxwvItjTeBgNpgQVaPYZ4rv1/br30cXJeEAPGTWnnbx8MI2MkLBiKW04u4Fys53kT3yK/3d4"
+          }
+        ],
+        "totalQuantity": 11,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 311627149,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 292721179,
+        "kindId": 0,
+        "brand": "DEEPCOOL",
+        "brandId": 63434,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "CG530 WH White Mid Tower Компьютерный корпус",
+        "entity": "",
+        "matchId": 6819542,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 17,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 86,
+        "nmFeedbacks": 86,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 826,
+        "viewFlags": 1417353,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 471335191,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 113170000,
+              "product": 89410000,
+              "total": 138590000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "sAs/u3hWSH1A6VYecetjVVaIgxGzoFxeE+vGWwX5mFBtdtQ7u9nKIX5grZczgv0/2oLy9jlBercdBlA"
+          }
+        ],
+        "totalQuantity": 11,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 366140004,
+        "time1": 23,
+        "time2": 266,
+        "wh": 304803,
+        "dtype": 65,
+        "dist": 3547,
+        "root": 309335261,
+        "kindId": 0,
+        "brand": "FORMULA",
+        "brandId": 17407,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус MicroATX Minitower CS-110-S-BK-v1 Black",
+        "entity": "",
+        "matchId": 1159845,
+        "supplier": "ЕКОМ",
+        "supplierId": 430562,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 11,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 88,
+        "nmFeedbacks": 88,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 260,
+        "viewFlags": 1335297,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 536338560,
+            "wh": 304803,
+            "time1": 23,
+            "time2": 266,
+            "dtype": 65,
+            "price": {
+              "basic": 45120000,
+              "product": 36300000,
+              "total": 53590000,
+              "logistics": 17290000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "zdGsQrhxzeXqjhU4tDPohK851qY/dwN9Tep4/tgGIH/VsLULxmjZ9VyaZcJEygMALGEN1wfCIaCoJME"
+          }
+        ],
+        "totalQuantity": 15,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 279403655,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 259411643,
+        "kindId": 0,
+        "brand": "Redragon",
+        "brandId": 21270,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус игровой, подходит для сбора компьютера Paktis3",
+        "entity": "",
+        "matchId": 197654464,
+        "supplier": "Defender",
+        "supplierId": 51123,
+        "supplierRating": 4.8,
+        "supplierFlags": 12240,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 4,
+        "nmFeedbacks": 4,
+        "volume": 592,
+        "viewFlags": 1384584,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 429405574,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 63020000,
+              "product": 72070000,
+              "total": 111510000,
+              "logistics": 39440000,
+              "return": 810000
+            },
+            "saleConditions": 146800704,
+            "payload": "28dLe6Ug+4M1cjgf9UzviAstszOqEg57ShUsz1z+BqTAHsT7GoPkesz5oOqPYFEy+Os30sxLbr2YYVc"
+          }
+        ],
+        "totalQuantity": 4,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 399035206,
+        "time1": 23,
+        "time2": 266,
+        "wh": 304803,
+        "dtype": 65,
+        "dist": 3547,
+        "root": 309335261,
+        "kindId": 0,
+        "brand": "FORMULA",
+        "brandId": 17407,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус MicroATX Minitower CS-106-S-BK-v1 Black",
+        "entity": "",
+        "matchId": 0,
+        "supplier": "ЕКОМ",
+        "supplierId": 430562,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 20,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 88,
+        "nmFeedbacks": 88,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 341,
+        "viewFlags": 1335296,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 576298163,
+            "wh": 304803,
+            "time1": 23,
+            "time2": 266,
+            "dtype": 65,
+            "price": {
+              "basic": 41060000,
+              "product": 32400000,
+              "total": 55080000,
+              "logistics": 22680000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "YoyAo4vqazjLcQziRWcTeuo6UF+iuS7HZ32KEZddttPzZEeROPUyosQTrsns10PZ/QR8vkUkMeTaghw"
+          }
+        ],
+        "totalQuantity": 1,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 283340020,
+        "time1": 31,
+        "time2": 254,
+        "wh": 366258,
+        "dtype": 65,
+        "dist": 3464,
+        "root": 264209711,
+        "kindId": 0,
+        "brand": "Zalman",
+        "brandId": 34008,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Компьютерный корпус N4 Rev.1 Black",
+        "entity": "",
+        "matchId": 386708,
+        "supplier": "ХОЛОДИЛЬНИК.РУ",
+        "supplierId": 250000315,
+        "supplierRating": 4.6,
+        "supplierFlags": 12240,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 52,
+        "nmFeedbacks": 52,
+        "volume": 528,
+        "viewFlags": 1384585,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 434401825,
+            "wh": 366258,
+            "time1": 31,
+            "time2": 254,
+            "dtype": 65,
+            "price": {
+              "basic": 78110000,
+              "product": 59840000,
+              "total": 94820000,
+              "logistics": 34980000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "CRo7zrNR3OfpiaYm4HZL8up1jKlIPo4TODkQTYN11DQwyh1GH/vCVdH+iE6kcgq92TFuQhDAXpdb4VY"
+          }
+        ],
+        "totalQuantity": 55,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 285025593,
+        "time1": 43,
+        "time2": 368,
+        "wh": 302116,
+        "dtype": 65,
+        "dist": 2648,
+        "root": 266121822,
+        "kindId": 0,
+        "brand": "BaseTech",
+        "brandId": 769999,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой eXtreme GFX-01",
+        "entity": "",
+        "matchId": 2677152,
+        "supplier": "e2e4",
+        "supplierId": 71870,
+        "supplierRating": 4.7,
+        "supplierFlags": 12242,
+        "pics": 16,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 6,
+        "nmFeedbacks": 6,
+        "volume": 442,
+        "viewFlags": 1335425,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 436405816,
+            "wh": 302116,
+            "time1": 43,
+            "time2": 368,
+            "dtype": 65,
+            "price": {
+              "basic": 54450000,
+              "product": 45710000,
+              "total": 73470000,
+              "logistics": 27760000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "/u7vRfMuZTZ0CyuXCb2vxaENAS/bZuCmEz/eRp17oGNqLI7K5uiJOJeGhe6DDVTDuH1zWnV/n7o4Dns"
+          }
+        ],
+        "totalQuantity": 91,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 210527234,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 190347639,
+        "kindId": 0,
+        "brand": "ACCORD",
+        "brandId": 60337,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Компьютерный корпус mATX ENTRY ACC-242B черный",
+        "entity": "",
+        "matchId": 217966,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 200,
+        "nmFeedbacks": 200,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 294,
+        "viewFlags": 1318921,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 336856357,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 28920000,
+              "product": 23420000,
+              "total": 43000000,
+              "logistics": 19580000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "QHCFfmNiupWWYu3x6nAsY+hjPQq4+JTEbYc3CHBBIxSdwY03whKAasSENbGSAUxwWU8vZp43ubUZwtw"
+          }
+        ],
+        "totalQuantity": 32,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 347388959,
+        "time1": 32,
+        "time2": 268,
+        "wh": 119261,
+        "dtype": 65,
+        "dist": 3564,
+        "root": 331780557,
+        "kindId": 0,
+        "brand": "PcCOOLER",
+        "brandId": 81307,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "ME200 MESH Black Mid Tower Компьютерный корпус",
+        "entity": "",
+        "matchId": 3725960,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 7,
+        "nmFeedbacks": 7,
+        "feedbackPoints": 370,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 974,
+        "viewFlags": 1417345,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 515119219,
+            "wh": 119261,
+            "time1": 32,
+            "time2": 268,
+            "dtype": 65,
+            "price": {
+              "basic": 128950000,
+              "product": 102930000,
+              "total": 152110000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "5PhFe7pKsoTf2mT52287XKkC04oycYnHuchrH5CihLJdh18uGHqotBg0SBzHR26UZ4+qCPS9FWBEBi8"
+          }
+        ],
+        "totalQuantity": 62,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 166759565,
+        "time1": 6,
+        "time2": 264,
+        "wh": 120762,
+        "dtype": 68,
+        "dist": 3573,
+        "root": 152790550,
+        "kindId": 0,
+        "brand": "MSI",
+        "brandId": 27445,
+        "siteBrandId": 37445,
+        "colors": [],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус MAG FORGE M100A (Mini-Tower, MATX)",
+        "entity": "",
+        "matchId": 2037679,
+        "supplier": "Modern Device",
+        "supplierId": 768659,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 5,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 131,
+        "nmFeedbacks": 131,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 573,
+        "viewFlags": 1384585,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 277447283,
+            "wh": 120762,
+            "time1": 6,
+            "time2": 264,
+            "dtype": 68,
+            "price": {
+              "basic": 76980000,
+              "product": 60960000,
+              "total": 99130000,
+              "logistics": 38170000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "ufjrwwK+3u+msiZAsM5FMfr7qgpBXVApDw5xKBt1+GUnd/Y6Y0p8WEM1rZNBA7ytjCdrlyaFejwBXHo"
+          }
+        ],
+        "totalQuantity": 2,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 245653645,
+        "time1": 24,
+        "time2": 360,
+        "wh": 208782,
+        "dtype": 65,
+        "dist": 3532,
+        "root": 220731426,
+        "kindId": 0,
+        "brand": "ACD",
+        "brandId": 164028,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус Coffre 106 (MO-TC4G0-000)",
+        "entity": "",
+        "matchId": 6174149,
+        "supplier": "Modern Device",
+        "supplierId": 768659,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 56,
+        "nmFeedbacks": 56,
+        "volume": 326,
+        "viewFlags": 1318920,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 385135223,
+            "wh": 208782,
+            "time1": 24,
+            "time2": 360,
+            "dtype": 65,
+            "price": {
+              "basic": 57300000,
+              "product": 51570000,
+              "total": 73230000,
+              "logistics": 21660000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "lIi5wksVV9WW45ImSxpymPP7Mjspt4p/1LZZc93kyWtjcbm5wDRRbgJkiMr2PfN1d2xlDTQD715ecr4"
+          }
+        ],
+        "totalQuantity": 100,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 317576653,
+        "time1": 6,
+        "time2": 231,
+        "wh": 206348,
+        "dtype": 68,
+        "dist": 3677,
+        "root": 299067265,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой аквариум microATX",
+        "entity": "",
+        "matchId": 13594055,
+        "supplier": "Techno Mall",
+        "supplierId": 4202119,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 13,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 91,
+        "nmFeedbacks": 91,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 571,
+        "viewFlags": 1613969,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 478750696,
+            "wh": 206348,
+            "time1": 6,
+            "time2": 231,
+            "dtype": 68,
+            "price": {
+              "basic": 77190000,
+              "product": 55710000,
+              "total": 93930000,
+              "logistics": 38220000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "Vs8LXer20l5zoImC/EZ7NJdg2Gb47sNqewCTB2sIQXkUQKVGv2HjAWN6KrPvIfH6I/rQM5L1voL0E7Q"
+          }
+        ],
+        "totalQuantity": 19,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 313544897,
+        "time1": 6,
+        "time2": 231,
+        "wh": 206348,
+        "dtype": 68,
+        "dist": 3677,
+        "root": 294773801,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой аквариум microATX белый",
+        "entity": "",
+        "matchId": 12629042,
+        "supplier": "Original Brands Store",
+        "supplierId": 54852,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 10,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 575,
+        "nmFeedbacks": 575,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 474,
+        "viewFlags": 1646736,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 473633696,
+            "wh": 206348,
+            "time1": 6,
+            "time2": 231,
+            "dtype": 68,
+            "price": {
+              "basic": 62990000,
+              "product": 49400000,
+              "total": 81130000,
+              "logistics": 31730000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "3bSzg84QhNEY6hYrqpghrSRiLsbqWDX/pH9KV+L1/yc8JC4vXNp7yq9n419lywN3ZPjUUNRrlnjmA5M"
+          }
+        ],
+        "totalQuantity": 5,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 317576656,
+        "time1": 34,
+        "time2": 307,
+        "wh": 218671,
+        "dtype": 65,
+        "dist": 3562,
+        "root": 299067265,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой аквариум microATX",
+        "entity": "",
+        "matchId": 11643346,
+        "supplier": "Techno Mall",
+        "supplierId": 4202119,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 10,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 91,
+        "nmFeedbacks": 91,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 453,
+        "viewFlags": 1646736,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 478750699,
+            "wh": 218671,
+            "time1": 34,
+            "time2": 307,
+            "dtype": 65,
+            "price": {
+              "basic": 64650000,
+              "product": 49080000,
+              "total": 79240000,
+              "logistics": 30160000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "ffi15R4uvNtOIt4SnTuKvISKRF1dCisFeVq08WlqmfmVVcl4UmOjA6pytOsNCQtmEQ0A9RtW50M3AZE"
+          }
+        ],
+        "totalQuantity": 19,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 388946715,
+        "time1": 34,
+        "time2": 307,
+        "wh": 218671,
+        "dtype": 65,
+        "dist": 3562,
+        "root": 380266282,
+        "kindId": 0,
+        "brand": "Gamemax",
+        "brandId": 62829,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК Luxury G501X без БП ATX",
+        "entity": "",
+        "matchId": 13459361,
+        "supplier": "КупИш - всё просто",
+        "supplierId": 4401160,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 15,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 2,
+        "nmFeedbacks": 2,
+        "volume": 661,
+        "viewFlags": 1433793,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 564261186,
+            "wh": 218671,
+            "time1": 34,
+            "time2": 307,
+            "dtype": 65,
+            "price": {
+              "basic": 106300000,
+              "product": 86370000,
+              "total": 130380000,
+              "logistics": 44010000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "dHC3fqjUqQJq4nwDG1snF87fNKKU1EHq1LeY4Ola7XthfzsdayqO/tYRY4pxZGsv6EVlXSTSo1o9/TQ"
+          }
+        ],
+        "totalQuantity": 102,
+        "log": {
+          "cpm": 125,
+          "promotion": 1,
+          "promoPosition": 92,
+          "position": 120,
+          "advertId": 24480019,
+          "tp": "b"
+        },
+        "logs": "MrgWSO/xYnHHiBrsDiJJmlGMH6Gyi4MS1ag+0Xg3BIWoKxfeIybpWydZZWcLNNYaYx5OU7MsVQ",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 142138633,
+        "time1": 28,
+        "time2": 142,
+        "wh": 218990,
+        "dtype": 65,
+        "dist": 822,
+        "root": 121118581,
+        "kindId": 0,
+        "brand": "MSI",
+        "brandId": 27445,
+        "siteBrandId": 37445,
+        "colors": [],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Компьютерный корпус MAG FORGE M100A",
+        "entity": "",
+        "matchId": 1066080,
+        "supplier": "240km/h Market",
+        "supplierId": 1176117,
+        "supplierRating": 4.8,
+        "supplierFlags": 8000,
+        "pics": 6,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 2,
+        "nmFeedbacks": 2,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 606,
+        "viewFlags": 65665,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 240442771,
+            "wh": 218990,
+            "time1": 28,
+            "time2": 142,
+            "dtype": 65,
+            "price": {
+              "basic": 73950000,
+              "product": 60270000,
+              "total": 94680000,
+              "logistics": 34410000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "I8K0GXxO/wy/T6QsEGFhAdmkNuCh2Yp2fF8hJTpG4I7/zdzm6MC8vKBk5SsBGVhV9kGf4i/1QRGdPiA"
+          }
+        ],
+        "totalQuantity": 25,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 337375327,
+        "time1": 6,
+        "time2": 231,
+        "wh": 206348,
+        "dtype": 68,
+        "dist": 3677,
+        "root": 274390374,
+        "kindId": 0,
+        "brand": "A4TECH",
+        "brandId": 9292,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для пк BLOODY BD-CC105, mATX, Mini-Tower",
+        "entity": "",
+        "matchId": 9054710,
+        "supplier": "Фирменный магазин A4TECH",
+        "supplierId": 250000006,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 151,
+        "nmFeedbacks": 151,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 614,
+        "viewFlags": 1417369,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 503368287,
+            "wh": 206348,
+            "time1": 6,
+            "time2": 231,
+            "dtype": 68,
+            "price": {
+              "basic": 87560000,
+              "product": 71890000,
+              "total": 112990000,
+              "logistics": 41100000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "rDrTuynty7PEf7IFpkL0lpCG5uvE9znQvQzqly2YXXv8aSx+NFq++HwdLW3EnubpSWGvlOScd6qApas"
+          }
+        ],
+        "totalQuantity": 12,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 301604075,
+        "time1": 6,
+        "time2": 231,
+        "wh": 206348,
+        "dtype": 68,
+        "dist": 3677,
+        "root": 281887046,
+        "kindId": 0,
+        "brand": "DEEPCOOL",
+        "brandId": 63434,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус CC360 ARGB черный без БП mATX 5x120mm 4x140m",
+        "entity": "",
+        "matchId": 128870,
+        "supplier": "Позитроника",
+        "supplierId": 65605,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 17,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 1,
+        "nmFeedbacks": 1,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 682,
+        "viewFlags": 1417353,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 458323763,
+            "wh": 206348,
+            "time1": 6,
+            "time2": 231,
+            "dtype": 68,
+            "price": {
+              "basic": 89650000,
+              "product": 72480000,
+              "total": 118140000,
+              "logistics": 45660000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "rbXxwecps7R5PT0WBnMUsALrpWB+8cljF5v5DddwlVledBjU/1IigXJ4DH8dsKrYcFCUIUEAcHXWBS0"
+          }
+        ],
+        "totalQuantity": 94,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 301455655,
+        "time1": 6,
+        "time2": 231,
+        "wh": 206348,
+        "dtype": 68,
+        "dist": 3677,
+        "root": 281747301,
+        "kindId": 0,
+        "brand": "Deepcool",
+        "brandId": 63434,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус CG530 Middle Tower Черный (R-CG530-BKNDA0-G-1)",
+        "entity": "",
+        "matchId": 3574087,
+        "supplier": "Modern Device",
+        "supplierId": 768659,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 3,
+        "nmFeedbacks": 3,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 840,
+        "viewFlags": 1417344,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 458078742,
+            "wh": 206348,
+            "time1": 6,
+            "time2": 231,
+            "dtype": 68,
+            "price": {
+              "basic": 116180000,
+              "product": 92450000,
+              "total": 141630000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "MJ9ctygmX/eAHzHW88I6pLsFvnpOWlngQcJ9cF9Zi/JbYSlEdjdBe8GQEyqZcVyaKTf5AzMc5Z5fCzE"
+          }
+        ],
+        "totalQuantity": 2,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 301455654,
+        "time1": 6,
+        "time2": 231,
+        "wh": 206348,
+        "dtype": 68,
+        "dist": 3677,
+        "root": 281747300,
+        "kindId": 0,
+        "brand": "Deepcool",
+        "brandId": 63434,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус CG530 WH Middle Tower Белый (R-CG530-WHNDA0-G-1)",
+        "entity": "",
+        "matchId": 6819542,
+        "supplier": "Modern Device",
+        "supplierId": 768659,
+        "supplierRating": 4.8,
+        "supplierFlags": 12224,
+        "pics": 4,
+        "rating": 5,
+        "reviewRating": 5,
+        "nmReviewRating": 5,
+        "feedbacks": 2,
+        "nmFeedbacks": 2,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 840,
+        "viewFlags": 1417344,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 458078741,
+            "wh": 206348,
+            "time1": 6,
+            "time2": 231,
+            "dtype": 68,
+            "price": {
+              "basic": 120900000,
+              "product": 96750000,
+              "total": 145930000,
+              "logistics": 49180000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "UDR1TcapRBVA3gcd87abGoy9Ug18ZVj6E49ADhm0g1UfGXLCgWVLkn+cFd+0cCeFIB6ih1mTzc/U8rw"
+          }
+        ],
+        "totalQuantity": 1,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 417028740,
+        "time1": 34,
+        "time2": 307,
+        "wh": 218671,
+        "dtype": 65,
+        "dist": 3562,
+        "root": 299067265,
+        "kindId": 0,
+        "brand": "Code",
+        "brandId": 36169,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК аквариум игровой черный",
+        "entity": "",
+        "matchId": 0,
+        "supplier": "Techno Mall",
+        "supplierId": 4202119,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 7,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 91,
+        "nmFeedbacks": 91,
+        "volume": 535,
+        "viewFlags": 1646802,
+        "isNew": true,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 596889668,
+            "wh": 218671,
+            "time1": 34,
+            "time2": 307,
+            "dtype": 65,
+            "price": {
+              "basic": 64390000,
+              "product": 53110000,
+              "total": 88730000,
+              "logistics": 35620000,
+              "return": 810000
+            },
+            "saleConditions": 134217728,
+            "payload": "KU4ZevevKJeV6claN6MZobTF5KlcjelC2Yd2TRjoFcZNo4J1wbjj0APtNIvZo7Gxg+5YSTjPuhln8x0"
+          }
+        ],
+        "totalQuantity": 67,
+        "log": {
+          "cpm": 180,
+          "promotion": 1,
+          "promoPosition": 98,
+          "position": 149,
+          "advertId": 25653041,
+          "tp": "b"
+        },
+        "logs": "MspvOzPyNq+SvdHTq3a8sQCGk15c/WGK6a3JWITXCMmFxK6hXfjCZr0uz0nN0F+DZkRv6RkOKw",
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 313549351,
+        "time1": 3,
+        "time2": 268,
+        "wh": 507,
+        "dtype": 68,
+        "dist": 3564,
+        "root": 294773801,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "белый",
+            "id": 16777215
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой с RGB подсветкой microATX белый",
+        "entity": "",
+        "matchId": 13103309,
+        "supplier": "Original Brands Store",
+        "supplierId": 54852,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 10,
+        "rating": 5,
+        "reviewRating": 4.7,
+        "nmReviewRating": 4.7,
+        "feedbacks": 575,
+        "nmFeedbacks": 575,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 474,
+        "viewFlags": 1646737,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 473640164,
+            "wh": 507,
+            "time1": 3,
+            "time2": 268,
+            "dtype": 68,
+            "price": {
+              "basic": 64650000,
+              "product": 50700000,
+              "total": 82260000,
+              "logistics": 31560000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "yEyS5TNORoYAMaqaF5LdHiesl2j5WGqAmBexzaytSp4Jj8OpbpOCGcP85+ae6NHPWk7sWe/CWevoJjU"
+          }
+        ],
+        "totalQuantity": 10,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      },
+      {
+        "id": 317576657,
+        "time1": 3,
+        "time2": 268,
+        "wh": 507,
+        "dtype": 68,
+        "dist": 3564,
+        "root": 299067265,
+        "kindId": 0,
+        "brand": "Code Red",
+        "brandId": 559651,
+        "siteBrandId": 0,
+        "colors": [
+          {
+            "name": "черный",
+            "id": 0
+          }
+        ],
+        "subjectId": 4066,
+        "subjectParentId": 6238,
+        "name": "Корпус для ПК игровой с RGB подсветкой microATX",
+        "entity": "",
+        "matchId": 8768393,
+        "supplier": "Techno Mall",
+        "supplierId": 4202119,
+        "supplierRating": 4.7,
+        "supplierFlags": 12224,
+        "pics": 8,
+        "rating": 5,
+        "reviewRating": 4.8,
+        "nmReviewRating": 4.8,
+        "feedbacks": 91,
+        "nmFeedbacks": 91,
+        "panelPromoId": 1001424,
+        "promoTextCard": "ОТПУСКАЕМ ЦЕНЫ",
+        "promoTextCat": "ОТПУСКАЕМ ЦЕНЫ",
+        "volume": 353,
+        "viewFlags": 1581201,
+        "sizes": [
+          {
+            "name": "",
+            "origName": "0",
+            "rank": 0,
+            "optionId": 478750700,
+            "wh": 507,
+            "time1": 3,
+            "time2": 268,
+            "dtype": 68,
+            "price": {
+              "basic": 58030000,
+              "product": 45100000,
+              "total": 68600000,
+              "logistics": 23500000,
+              "return": 810000
+            },
+            "saleConditions": 402653184,
+            "payload": "/4gwbt7iiuyzijw6Hnv2DnCNezWLmyz/sn4JrVBe11nsuhYSv+bcuS7DFSC1AgeY8hv6m0vUn4DM0gg"
+          }
+        ],
+        "totalQuantity": 7,
+        "meta": {
+          "tokens": [],
+          "presetId": 19887484
+        }
+      }
+    ],
+    "total": 410
+  }
+}

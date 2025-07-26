@@ -1,8 +1,6 @@
 from django.core.management.base import BaseCommand
+import asyncio
 
-from services.olx.service import OlxService
-from services.uzum.service import UzumService
-from services.main.service import MainService
 
 
 class Command(BaseCommand):
@@ -10,10 +8,18 @@ class Command(BaseCommand):
 
     def handle(self, *args, **kwargs):
         async def run():
-            async for task in MainService().search("sichqoncha"):
-                print(task)
-        import asyncio
+            from services.iswb.service import ISWBService
+            service = ISWBService()
+            data = await service.search()
+            print(data)
+            
+
 
         asyncio.run(run())
+
+
+
+
+        # asyncio.run(run())
 
         # asyncio.run(UzumService().search("pc"))
